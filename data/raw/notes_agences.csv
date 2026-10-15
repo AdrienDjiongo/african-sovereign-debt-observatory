@@ -1,27 +1,27 @@
-pays,iso3,agence,note,note_num,perspective,sources,confiance,commentaire
-Angola,AGO,S&P,B-,6,,TE;WP;MAPPR,confirmee,
-Benin,BEN,S&P,BB-,9,,TE;WP;MAPPR,confirmee,
-Botswana,BWA,S&P,BBB-,12,negative,TE;MAPPR;APRM,confirmee,Wikipedia perime (BBB)
-Burkina Faso,BFA,S&P,CCC+,5,,TE;WP;MAPPR,confirmee,
-Cabo Verde,CPV,S&P,B+,8,positive,TE;APRM,confirmee,Releve de B en 2026
-Cameroon,CMR,S&P,B-,6,stable,TE;WP;MAPPR;ALMASI,confirmee,
-Chad,TCD,S&P,B-,6,stable,TE;WP;ALMASI,confirmee,
-Congo Republic,COG,S&P,CCC+,5,,TE;WP;MAPPR;ALMASI,confirmee,Perspective peut-etre passee a positive (APRM) a verifier
-Cote d'Ivoire,CIV,S&P,BB,10,,TE;WP;MAPPR,confirmee,
-Congo DR,COD,S&P,B-,6,positive,TE;WP;ECOFIN,confirmee,Perspective relevee en janvier 2026
-Egypt,EGY,S&P,B,7,,TE;WP;MAPPR,confirmee,
-Ethiopia,ETH,S&P,SD,,,TE;WP;PRESSE,confirmee,Defaut selectif (monnaie etrangere) : exclu du modele
-Ghana,GHA,S&P,B-,6,,TE;WP;MAPPR,confirmee,
-Kenya,KEN,S&P,B,7,,TE;WP;MAPPR,confirmee,
-Madagascar,MDG,S&P,B-,6,,TE;MAPPR;WP,a_verifier,Verifier si la note a change apres le changement de pouvoir de fin 2025
-Morocco,MAR,S&P,BBB-,12,,TE;WP;MAPPR,confirmee,
-Mozambique,MOZ,S&P,CCC,4,negative,TE;PRESSE,a_verifier,CCC en oct 2025 mais article de mars 2026 evoque un risque de defaut : verifier si CC
-Nigeria,NGA,S&P,B,7,,TE;MAPPR;APRM,confirmee,Releve de B- en 2026
-Rwanda,RWA,S&P,B+,8,,TE;WP;MAPPR,confirmee,
-Senegal,SEN,S&P,CC,2,negative,TE;PRESSE,confirmee,Restructuration de la dette en cours : cas extreme
-South Africa,ZAF,S&P,BB,10,positive,TE;WP;MAPPR,confirmee,
-Togo,TGO,S&P,B+,8,,TE;WP;MAPPR,confirmee,
-Uganda,UGA,S&P,B-,6,positive,TE;WP;MAPPR,confirmee,
-Zambia,ZMB,S&P,CCC+,5,,TE;WP;MAPPR,confirmee,
-Gabon,GAB,Fitch,CCC-,3,,WP;MAPPR,a_verifier,Pas de note S&P. Le rapport ALMASI indique CCC
-Gabon,GAB,Moody's,Caa1,5,negative,WP;APRM,a_verifier,Pas de note S&P. Date 2023 a verifier
+pays,iso3,agence,note,note_num,perspective,sources,confiance,date_verification,commentaire
+Angola,AGO,S&P,B-,6,stable,TE;WP;MAPPR,recoupee,2026-10-15,
+Benin,BEN,S&P,BB-,9,stable,TE;WP;MAPPR,recoupee,2026-10-15,
+Botswana,BWA,S&P,BBB-,12,negative,TE;MAPPR;APRM,recoupee,2026-10-15,Wikipedia perime (BBB)
+Burkina Faso,BFA,S&P,CCC+,5,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Cabo Verde,CPV,S&P,B+,8,positive,TE;APRM,recoupee,2026-10-15,Releve de B en 2026
+Cameroon,CMR,S&P,B-,6,stable,TE;WP;MAPPR;ALMASI,recoupee,2026-10-15,
+Chad,TCD,S&P,B-,6,stable,TE;WP;ALMASI,recoupee,2026-10-15,
+Congo Republic,COG,S&P,CCC+,5,non_verifiee,TE;WP;MAPPR;ALMASI,recoupee,2026-10-15,Perspective stable en 2025 mais APRM signale un passage a positive en 2026
+Cote d'Ivoire,CIV,S&P,BB,10,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Congo DR,COD,S&P,B-,6,positive,TE;WP;ECOFIN,recoupee,2026-10-15,Perspective relevee en janvier 2026
+Egypt,EGY,S&P,B,7,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Ethiopia,ETH,S&P,SD,,non_verifiee,TE;WP;PRESSE,recoupee,2026-10-15,Defaut selectif (monnaie etrangere) : exclu du modele
+Ghana,GHA,S&P,B-,6,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Kenya,KEN,S&P,B,7,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Madagascar,MDG,S&P,B-,6,stable,TE;MAPPR;WP;APRM,recoupee,2026-10-15,Perspective passee a stable en 2026
+Morocco,MAR,S&P,BBB-,12,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Mozambique,MOZ,S&P,CCC+,5,negative,WP;PRESSE,recoupee,2026-10-15,Monnaie etrangere CCC+ confirmee en mars 2026. Le CCC de Trading Economics est probablement la note en monnaie locale
+Nigeria,NGA,S&P,B,7,non_verifiee,TE;MAPPR;APRM,recoupee,2026-10-15,Releve de B- en 2026
+Rwanda,RWA,S&P,B+,8,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Senegal,SEN,S&P,CC,2,negative,TE;PRESSE,recoupee,2026-10-15,Monnaie etrangere abaissee de CCC+ a CC le 2026-09-04 (restructuration de la dette)
+South Africa,ZAF,S&P,BB,10,positive,TE;WP;MAPPR,recoupee,2026-10-15,
+Togo,TGO,S&P,B+,8,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Uganda,UGA,S&P,B-,6,positive,TE;WP;MAPPR,recoupee,2026-10-15,
+Zambia,ZMB,S&P,CCC+,5,non_verifiee,TE;WP;MAPPR,recoupee,2026-10-15,
+Gabon,GAB,Fitch,CCC-,3,non_verifiee,WP;MAPPR,a_verifier,2026-10-15,Pas de note S&P. Le rapport ALMASI indique CCC
+Gabon,GAB,Moody's,Caa1,5,negative,WP;APRM,a_verifier,2026-10-15,Pas de note S&P. Date 2023 a verifier

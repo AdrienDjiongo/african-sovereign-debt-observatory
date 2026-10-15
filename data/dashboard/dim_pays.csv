@@ -1,0 +1,55 @@
+iso3,pays,zone,sp_note,sp_note_num,sp_perspective,sp_confiance,fitch_note,fitch_note_num,fitch_perspective,fitch_confiance,moodys_note,moodys_note_num,moodys_perspective,moodys_confiance,groupe_note
+AGO,Angola,Autres pays,B-,6.0,stable,recoupee,,,,,,,,,2 - B- a B+
+BDI,Burundi,Autres pays,,,,,,,,,,,,,
+BEN,Bénin,UEMOA,BB-,9.0,stable,recoupee,,,,,,,,,3 - BB- et plus
+BFA,Burkina Faso,UEMOA,CCC+,5.0,non_verifiee,recoupee,,,,,,,,,1 - CCC+ et moins
+BWA,Botswana,Autres pays,BBB-,12.0,negative,recoupee,,,,,,,,,3 - BB- et plus
+CAF,Centrafrique,CEMAC,,,,,,,,,,,,,
+CIV,Côte d'Ivoire,UEMOA,BB,10.0,non_verifiee,recoupee,,,,,,,,,3 - BB- et plus
+CMR,Cameroun,CEMAC,B-,6.0,stable,recoupee,,,,,,,,,2 - B- a B+
+COD,RD Congo,Autres pays,B-,6.0,positive,recoupee,,,,,,,,,2 - B- a B+
+COG,Congo-Brazzaville,CEMAC,CCC+,5.0,non_verifiee,recoupee,,,,,,,,,1 - CCC+ et moins
+COM,Comores,Autres pays,,,,,,,,,,,,,
+CPV,Cabo Verde,Autres pays,B+,8.0,positive,recoupee,,,,,,,,,2 - B- a B+
+DJI,Djibouti,Autres pays,,,,,,,,,,,,,
+DZA,Algérie,Autres pays,,,,,,,,,,,,,
+EGY,Égypte,Autres pays,B,7.0,non_verifiee,recoupee,,,,,,,,,2 - B- a B+
+ERI,Érythrée,Autres pays,,,,,,,,,,,,,
+ETH,Éthiopie,Autres pays,SD,,non_verifiee,recoupee,,,,,,,,,
+GAB,Gabon,CEMAC,,,,,CCC-,3.0,non_verifiee,a_verifier,Caa1,5.0,negative,a_verifier,
+GHA,Ghana,Autres pays,B-,6.0,non_verifiee,recoupee,,,,,,,,,2 - B- a B+
+GIN,Guinée,Autres pays,,,,,,,,,,,,,
+GMB,Gambie,Autres pays,,,,,,,,,,,,,
+GNB,Guinée-Bissau,UEMOA,,,,,,,,,,,,,
+GNQ,Guinée équatoriale,CEMAC,,,,,,,,,,,,,
+KEN,Kenya,Autres pays,B,7.0,non_verifiee,recoupee,,,,,,,,,2 - B- a B+
+LBR,Libéria,Autres pays,,,,,,,,,,,,,
+LBY,Libye,Autres pays,,,,,,,,,,,,,
+LSO,Lesotho,Autres pays,,,,,,,,,,,,,
+MAR,Maroc,Autres pays,BBB-,12.0,non_verifiee,recoupee,,,,,,,,,3 - BB- et plus
+MDG,Madagascar,Autres pays,B-,6.0,stable,recoupee,,,,,,,,,2 - B- a B+
+MLI,Mali,UEMOA,,,,,,,,,,,,,
+MOZ,Mozambique,Autres pays,CCC+,5.0,negative,recoupee,,,,,,,,,1 - CCC+ et moins
+MRT,Mauritanie,Autres pays,,,,,,,,,,,,,
+MUS,Maurice,Autres pays,,,,,,,,,,,,,
+MWI,Malawi,Autres pays,,,,,,,,,,,,,
+NAM,Namibie,Autres pays,,,,,,,,,,,,,
+NER,Niger,UEMOA,,,,,,,,,,,,,
+NGA,Nigéria,Autres pays,B,7.0,non_verifiee,recoupee,,,,,,,,,2 - B- a B+
+RWA,Rwanda,Autres pays,B+,8.0,non_verifiee,recoupee,,,,,,,,,2 - B- a B+
+SDN,Soudan,Autres pays,,,,,,,,,,,,,
+SEN,Sénégal,UEMOA,CC,2.0,negative,recoupee,,,,,,,,,1 - CCC+ et moins
+SLE,Sierra Leone,Autres pays,,,,,,,,,,,,,
+SOM,Somalie,Autres pays,,,,,,,,,,,,,
+SSD,Soudan du Sud,Autres pays,,,,,,,,,,,,,
+STP,Sao Tomé-et-Principe,Autres pays,,,,,,,,,,,,,
+SWZ,Eswatini,Autres pays,,,,,,,,,,,,,
+SYC,Seychelles,Autres pays,,,,,,,,,,,,,
+TCD,Tchad,CEMAC,B-,6.0,stable,recoupee,,,,,,,,,2 - B- a B+
+TGO,Togo,UEMOA,B+,8.0,non_verifiee,recoupee,,,,,,,,,2 - B- a B+
+TUN,Tunisie,Autres pays,,,,,,,,,,,,,
+TZA,Tanzanie,Autres pays,,,,,,,,,,,,,
+UGA,Ouganda,Autres pays,B-,6.0,positive,recoupee,,,,,,,,,2 - B- a B+
+ZAF,Afrique du Sud,Autres pays,BB,10.0,positive,recoupee,,,,,,,,,3 - BB- et plus
+ZMB,Zambie,Autres pays,CCC+,5.0,non_verifiee,recoupee,,,,,,,,,1 - CCC+ et moins
+ZWE,Zimbabwe,Autres pays,,,,,,,,,,,,,
