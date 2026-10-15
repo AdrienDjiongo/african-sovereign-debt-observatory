@@ -1,0 +1,2809 @@
+pays,iso3,annee,dette,dette_projection
+Algeria,DZA,1980,,False
+Algeria,DZA,1981,,False
+Algeria,DZA,1982,,False
+Algeria,DZA,1983,,False
+Algeria,DZA,1984,,False
+Algeria,DZA,1985,,False
+Algeria,DZA,1986,,False
+Algeria,DZA,1987,,False
+Algeria,DZA,1988,,False
+Algeria,DZA,1989,,False
+Algeria,DZA,1990,,False
+Algeria,DZA,1991,86.1,False
+Algeria,DZA,1992,69.3,False
+Algeria,DZA,1993,76.8,False
+Algeria,DZA,1994,106.3,False
+Algeria,DZA,1995,95.9,False
+Algeria,DZA,1996,90.7,False
+Algeria,DZA,1997,79.6,False
+Algeria,DZA,1998,79.9,False
+Algeria,DZA,1999,69.7,False
+Algeria,DZA,2000,53.4,False
+Algeria,DZA,2001,50.0,False
+Algeria,DZA,2002,47.3,False
+Algeria,DZA,2003,38.2,False
+Algeria,DZA,2004,32.7,False
+Algeria,DZA,2005,25.4,False
+Algeria,DZA,2006,22.5,False
+Algeria,DZA,2007,12.8,False
+Algeria,DZA,2008,7.6,False
+Algeria,DZA,2009,8.9,False
+Algeria,DZA,2010,9.5,False
+Algeria,DZA,2011,8.5,False
+Algeria,DZA,2012,8.6,False
+Algeria,DZA,2013,6.5,False
+Algeria,DZA,2014,6.9,False
+Algeria,DZA,2015,7.7,False
+Algeria,DZA,2016,18.1,False
+Algeria,DZA,2017,24.0,False
+Algeria,DZA,2018,34.5,False
+Algeria,DZA,2019,40.9,False
+Algeria,DZA,2020,46.0,False
+Algeria,DZA,2021,55.1,False
+Algeria,DZA,2022,48.1,False
+Algeria,DZA,2023,47.7,False
+Algeria,DZA,2024,48.1,False
+Algeria,DZA,2025,52.1,False
+Algeria,DZA,2026,51.8,True
+Algeria,DZA,2027,59.1,True
+Algeria,DZA,2028,66.1,True
+Algeria,DZA,2029,71.0,True
+Algeria,DZA,2030,75.3,True
+Algeria,DZA,2031,78.9,True
+Angola,AGO,1980,,False
+Angola,AGO,1981,,False
+Angola,AGO,1982,,False
+Angola,AGO,1983,,False
+Angola,AGO,1984,,False
+Angola,AGO,1985,,False
+Angola,AGO,1986,,False
+Angola,AGO,1987,,False
+Angola,AGO,1988,,False
+Angola,AGO,1989,,False
+Angola,AGO,1990,,False
+Angola,AGO,1991,,False
+Angola,AGO,1992,,False
+Angola,AGO,1993,,False
+Angola,AGO,1994,,False
+Angola,AGO,1995,,False
+Angola,AGO,1996,,False
+Angola,AGO,1997,,False
+Angola,AGO,1998,,False
+Angola,AGO,1999,,False
+Angola,AGO,2000,118.2,False
+Angola,AGO,2001,100.2,False
+Angola,AGO,2002,65.1,False
+Angola,AGO,2003,50.8,False
+Angola,AGO,2004,41.6,False
+Angola,AGO,2005,29.9,False
+Angola,AGO,2006,16.7,False
+Angola,AGO,2007,18.8,False
+Angola,AGO,2008,28.1,False
+Angola,AGO,2009,48.4,False
+Angola,AGO,2010,32.6,False
+Angola,AGO,2011,26.3,False
+Angola,AGO,2012,23.8,False
+Angola,AGO,2013,29.5,False
+Angola,AGO,2014,35.3,False
+Angola,AGO,2015,50.4,False
+Angola,AGO,2016,65.7,False
+Angola,AGO,2017,59.6,False
+Angola,AGO,2018,81.6,False
+Angola,AGO,2019,100.8,False
+Angola,AGO,2020,119.8,False
+Angola,AGO,2021,75.5,False
+Angola,AGO,2022,57.4,False
+Angola,AGO,2023,75.7,False
+Angola,AGO,2024,55.0,False
+Angola,AGO,2025,52.9,False
+Angola,AGO,2026,51.5,True
+Angola,AGO,2027,53.3,True
+Angola,AGO,2028,53.0,True
+Angola,AGO,2029,53.5,True
+Angola,AGO,2030,54.1,True
+Angola,AGO,2031,55.1,True
+Benin,BEN,1980,,False
+Benin,BEN,1981,,False
+Benin,BEN,1982,,False
+Benin,BEN,1983,,False
+Benin,BEN,1984,,False
+Benin,BEN,1985,,False
+Benin,BEN,1986,,False
+Benin,BEN,1987,,False
+Benin,BEN,1988,,False
+Benin,BEN,1989,,False
+Benin,BEN,1990,,False
+Benin,BEN,1991,,False
+Benin,BEN,1992,,False
+Benin,BEN,1993,,False
+Benin,BEN,1994,,False
+Benin,BEN,1995,,False
+Benin,BEN,1996,,False
+Benin,BEN,1997,,False
+Benin,BEN,1998,53.6,False
+Benin,BEN,1999,39.4,False
+Benin,BEN,2000,39.6,False
+Benin,BEN,2001,38.0,False
+Benin,BEN,2002,30.8,False
+Benin,BEN,2003,23.4,False
+Benin,BEN,2004,21.5,False
+Benin,BEN,2005,27.0,False
+Benin,BEN,2006,8.4,False
+Benin,BEN,2007,14.3,False
+Benin,BEN,2008,18.3,False
+Benin,BEN,2009,18.7,False
+Benin,BEN,2010,21.0,False
+Benin,BEN,2011,21.9,False
+Benin,BEN,2012,19.5,False
+Benin,BEN,2013,18.5,False
+Benin,BEN,2014,22.3,False
+Benin,BEN,2015,30.9,False
+Benin,BEN,2016,35.9,False
+Benin,BEN,2017,39.4,False
+Benin,BEN,2018,40.8,False
+Benin,BEN,2019,40.4,False
+Benin,BEN,2020,46.1,False
+Benin,BEN,2021,55.6,False
+Benin,BEN,2022,59.7,False
+Benin,BEN,2023,61.3,False
+Benin,BEN,2024,60.5,False
+Benin,BEN,2025,59.3,False
+Benin,BEN,2026,58.1,True
+Benin,BEN,2027,56.5,True
+Benin,BEN,2028,54.7,True
+Benin,BEN,2029,53.1,True
+Benin,BEN,2030,51.7,True
+Benin,BEN,2031,50.3,True
+Botswana,BWA,1980,,False
+Botswana,BWA,1981,,False
+Botswana,BWA,1982,,False
+Botswana,BWA,1983,,False
+Botswana,BWA,1984,,False
+Botswana,BWA,1985,,False
+Botswana,BWA,1986,,False
+Botswana,BWA,1987,,False
+Botswana,BWA,1988,,False
+Botswana,BWA,1989,,False
+Botswana,BWA,1990,,False
+Botswana,BWA,1991,,False
+Botswana,BWA,1992,,False
+Botswana,BWA,1993,,False
+Botswana,BWA,1994,,False
+Botswana,BWA,1995,,False
+Botswana,BWA,1996,,False
+Botswana,BWA,1997,,False
+Botswana,BWA,1998,11.3,False
+Botswana,BWA,1999,9.3,False
+Botswana,BWA,2000,8.2,False
+Botswana,BWA,2001,7.5,False
+Botswana,BWA,2002,8.4,False
+Botswana,BWA,2003,7.1,False
+Botswana,BWA,2004,10.7,False
+Botswana,BWA,2005,7.5,False
+Botswana,BWA,2006,6.1,False
+Botswana,BWA,2007,5.9,False
+Botswana,BWA,2008,7.8,False
+Botswana,BWA,2009,22.4,False
+Botswana,BWA,2010,26.5,False
+Botswana,BWA,2011,27.9,False
+Botswana,BWA,2012,26.4,False
+Botswana,BWA,2013,23.8,False
+Botswana,BWA,2014,23.9,False
+Botswana,BWA,2015,24.5,False
+Botswana,BWA,2016,22.3,False
+Botswana,BWA,2017,19.6,False
+Botswana,BWA,2018,19.6,False
+Botswana,BWA,2019,21.5,False
+Botswana,BWA,2020,23.5,False
+Botswana,BWA,2021,22.3,False
+Botswana,BWA,2022,20.0,False
+Botswana,BWA,2023,22.5,False
+Botswana,BWA,2024,30.5,False
+Botswana,BWA,2025,34.0,False
+Botswana,BWA,2026,40.3,True
+Botswana,BWA,2027,45.5,True
+Botswana,BWA,2028,49.9,True
+Botswana,BWA,2029,54.4,True
+Botswana,BWA,2030,59.1,True
+Botswana,BWA,2031,64.4,True
+Burkina Faso,BFA,1980,,False
+Burkina Faso,BFA,1981,,False
+Burkina Faso,BFA,1982,,False
+Burkina Faso,BFA,1983,,False
+Burkina Faso,BFA,1984,,False
+Burkina Faso,BFA,1985,,False
+Burkina Faso,BFA,1986,,False
+Burkina Faso,BFA,1987,,False
+Burkina Faso,BFA,1988,,False
+Burkina Faso,BFA,1989,,False
+Burkina Faso,BFA,1990,,False
+Burkina Faso,BFA,1991,,False
+Burkina Faso,BFA,1992,,False
+Burkina Faso,BFA,1993,,False
+Burkina Faso,BFA,1994,,False
+Burkina Faso,BFA,1995,,False
+Burkina Faso,BFA,1996,,False
+Burkina Faso,BFA,1997,,False
+Burkina Faso,BFA,1998,,False
+Burkina Faso,BFA,1999,,False
+Burkina Faso,BFA,2000,,False
+Burkina Faso,BFA,2001,,False
+Burkina Faso,BFA,2002,43.3,False
+Burkina Faso,BFA,2003,39.7,False
+Burkina Faso,BFA,2004,40.7,False
+Burkina Faso,BFA,2005,39.2,False
+Burkina Faso,BFA,2006,20.1,False
+Burkina Faso,BFA,2007,22.4,False
+Burkina Faso,BFA,2008,24.9,False
+Burkina Faso,BFA,2009,25.9,False
+Burkina Faso,BFA,2010,23.7,False
+Burkina Faso,BFA,2011,24.5,False
+Burkina Faso,BFA,2012,25.2,False
+Burkina Faso,BFA,2013,25.9,False
+Burkina Faso,BFA,2014,26.1,False
+Burkina Faso,BFA,2015,31.3,False
+Burkina Faso,BFA,2016,32.9,False
+Burkina Faso,BFA,2017,33.9,False
+Burkina Faso,BFA,2018,38.1,False
+Burkina Faso,BFA,2019,41.7,False
+Burkina Faso,BFA,2020,45.0,False
+Burkina Faso,BFA,2021,55.5,False
+Burkina Faso,BFA,2022,59.2,False
+Burkina Faso,BFA,2023,56.8,False
+Burkina Faso,BFA,2024,57.2,False
+Burkina Faso,BFA,2025,53.2,False
+Burkina Faso,BFA,2026,51.0,True
+Burkina Faso,BFA,2027,50.9,True
+Burkina Faso,BFA,2028,51.0,True
+Burkina Faso,BFA,2029,50.4,True
+Burkina Faso,BFA,2030,50.0,True
+Burkina Faso,BFA,2031,49.7,True
+Burundi,BDI,1980,,False
+Burundi,BDI,1981,,False
+Burundi,BDI,1982,,False
+Burundi,BDI,1983,,False
+Burundi,BDI,1984,,False
+Burundi,BDI,1985,,False
+Burundi,BDI,1986,,False
+Burundi,BDI,1987,,False
+Burundi,BDI,1988,,False
+Burundi,BDI,1989,,False
+Burundi,BDI,1990,,False
+Burundi,BDI,1991,,False
+Burundi,BDI,1992,,False
+Burundi,BDI,1993,,False
+Burundi,BDI,1994,,False
+Burundi,BDI,1995,,False
+Burundi,BDI,1996,,False
+Burundi,BDI,1997,,False
+Burundi,BDI,1998,,False
+Burundi,BDI,1999,,False
+Burundi,BDI,2000,120.0,False
+Burundi,BDI,2001,113.6,False
+Burundi,BDI,2002,144.8,False
+Burundi,BDI,2003,159.9,False
+Burundi,BDI,2004,166.1,False
+Burundi,BDI,2005,137.0,False
+Burundi,BDI,2006,130.3,False
+Burundi,BDI,2007,129.6,False
+Burundi,BDI,2008,102.5,False
+Burundi,BDI,2009,25.7,False
+Burundi,BDI,2010,46.9,False
+Burundi,BDI,2011,42.7,False
+Burundi,BDI,2012,41.4,False
+Burundi,BDI,2013,37.9,False
+Burundi,BDI,2014,37.9,False
+Burundi,BDI,2015,39.9,False
+Burundi,BDI,2016,46.1,False
+Burundi,BDI,2017,46.9,False
+Burundi,BDI,2018,53.0,False
+Burundi,BDI,2019,60.1,False
+Burundi,BDI,2020,65.9,False
+Burundi,BDI,2021,66.4,False
+Burundi,BDI,2022,68.5,False
+Burundi,BDI,2023,60.4,False
+Burundi,BDI,2024,53.8,False
+Burundi,BDI,2025,42.0,False
+Burundi,BDI,2026,40.4,True
+Burundi,BDI,2027,41.1,True
+Burundi,BDI,2028,39.1,True
+Burundi,BDI,2029,37.6,True
+Burundi,BDI,2030,37.9,True
+Burundi,BDI,2031,37.5,True
+Cabo Verde,CPV,1980,,False
+Cabo Verde,CPV,1981,,False
+Cabo Verde,CPV,1982,,False
+Cabo Verde,CPV,1983,,False
+Cabo Verde,CPV,1984,,False
+Cabo Verde,CPV,1985,,False
+Cabo Verde,CPV,1986,,False
+Cabo Verde,CPV,1987,,False
+Cabo Verde,CPV,1988,,False
+Cabo Verde,CPV,1989,,False
+Cabo Verde,CPV,1990,,False
+Cabo Verde,CPV,1991,,False
+Cabo Verde,CPV,1992,,False
+Cabo Verde,CPV,1993,,False
+Cabo Verde,CPV,1994,,False
+Cabo Verde,CPV,1995,,False
+Cabo Verde,CPV,1996,,False
+Cabo Verde,CPV,1997,79.3,False
+Cabo Verde,CPV,1998,72.9,False
+Cabo Verde,CPV,1999,66.4,False
+Cabo Verde,CPV,2000,71.9,False
+Cabo Verde,CPV,2001,62.2,False
+Cabo Verde,CPV,2002,64.7,False
+Cabo Verde,CPV,2003,65.6,False
+Cabo Verde,CPV,2004,67.8,False
+Cabo Verde,CPV,2005,66.7,False
+Cabo Verde,CPV,2006,66.2,False
+Cabo Verde,CPV,2007,59.6,False
+Cabo Verde,CPV,2008,57.5,False
+Cabo Verde,CPV,2009,58.8,False
+Cabo Verde,CPV,2010,61.2,False
+Cabo Verde,CPV,2011,64.5,False
+Cabo Verde,CPV,2012,70.4,False
+Cabo Verde,CPV,2013,106.7,False
+Cabo Verde,CPV,2014,117.0,False
+Cabo Verde,CPV,2015,125.2,False
+Cabo Verde,CPV,2016,123.9,False
+Cabo Verde,CPV,2017,123.4,False
+Cabo Verde,CPV,2018,127.2,False
+Cabo Verde,CPV,2019,123.5,False
+Cabo Verde,CPV,2020,168.2,False
+Cabo Verde,CPV,2021,168.4,False
+Cabo Verde,CPV,2022,144.6,False
+Cabo Verde,CPV,2023,134.3,False
+Cabo Verde,CPV,2024,127.1,False
+Cabo Verde,CPV,2025,115.4,True
+Cabo Verde,CPV,2026,109.9,True
+Cabo Verde,CPV,2027,103.6,True
+Cabo Verde,CPV,2028,97.7,True
+Cabo Verde,CPV,2029,92.3,True
+Cabo Verde,CPV,2030,86.4,True
+Cabo Verde,CPV,2031,80.8,True
+Cameroon,CMR,1980,,False
+Cameroon,CMR,1981,,False
+Cameroon,CMR,1982,,False
+Cameroon,CMR,1983,,False
+Cameroon,CMR,1984,,False
+Cameroon,CMR,1985,,False
+Cameroon,CMR,1986,,False
+Cameroon,CMR,1987,,False
+Cameroon,CMR,1988,,False
+Cameroon,CMR,1989,,False
+Cameroon,CMR,1990,,False
+Cameroon,CMR,1991,,False
+Cameroon,CMR,1992,,False
+Cameroon,CMR,1993,,False
+Cameroon,CMR,1994,,False
+Cameroon,CMR,1995,,False
+Cameroon,CMR,1996,,False
+Cameroon,CMR,1997,,False
+Cameroon,CMR,1998,67.8,False
+Cameroon,CMR,1999,68.4,False
+Cameroon,CMR,2000,75.9,False
+Cameroon,CMR,2001,62.2,False
+Cameroon,CMR,2002,56.6,False
+Cameroon,CMR,2003,51.5,False
+Cameroon,CMR,2004,51.7,False
+Cameroon,CMR,2005,43.8,False
+Cameroon,CMR,2006,18.4,False
+Cameroon,CMR,2007,13.8,False
+Cameroon,CMR,2008,11.2,False
+Cameroon,CMR,2009,11.3,False
+Cameroon,CMR,2010,14.0,False
+Cameroon,CMR,2011,15.9,False
+Cameroon,CMR,2012,14.9,False
+Cameroon,CMR,2013,17.5,False
+Cameroon,CMR,2014,20.7,False
+Cameroon,CMR,2015,31.6,False
+Cameroon,CMR,2016,32.1,False
+Cameroon,CMR,2017,36.5,False
+Cameroon,CMR,2018,38.3,False
+Cameroon,CMR,2019,41.6,False
+Cameroon,CMR,2020,44.9,False
+Cameroon,CMR,2021,47.2,False
+Cameroon,CMR,2022,45.6,False
+Cameroon,CMR,2023,43.6,False
+Cameroon,CMR,2024,43.4,False
+Cameroon,CMR,2025,40.5,False
+Cameroon,CMR,2026,40.1,True
+Cameroon,CMR,2027,39.1,True
+Cameroon,CMR,2028,38.1,True
+Cameroon,CMR,2029,36.8,True
+Cameroon,CMR,2030,35.1,True
+Cameroon,CMR,2031,34.3,True
+Central African Republic,CAF,1980,,False
+Central African Republic,CAF,1981,,False
+Central African Republic,CAF,1982,,False
+Central African Republic,CAF,1983,,False
+Central African Republic,CAF,1984,,False
+Central African Republic,CAF,1985,,False
+Central African Republic,CAF,1986,,False
+Central African Republic,CAF,1987,,False
+Central African Republic,CAF,1988,,False
+Central African Republic,CAF,1989,,False
+Central African Republic,CAF,1990,,False
+Central African Republic,CAF,1991,,False
+Central African Republic,CAF,1992,,False
+Central African Republic,CAF,1993,,False
+Central African Republic,CAF,1994,,False
+Central African Republic,CAF,1995,,False
+Central African Republic,CAF,1996,,False
+Central African Republic,CAF,1997,45.9,False
+Central African Republic,CAF,1998,41.7,False
+Central African Republic,CAF,1999,40.2,False
+Central African Republic,CAF,2000,58.6,False
+Central African Republic,CAF,2001,62.2,False
+Central African Republic,CAF,2002,61.2,False
+Central African Republic,CAF,2003,63.1,False
+Central African Republic,CAF,2004,64.3,False
+Central African Republic,CAF,2005,67.6,False
+Central African Republic,CAF,2006,30.6,False
+Central African Republic,CAF,2007,31.1,False
+Central African Republic,CAF,2008,24.4,False
+Central African Republic,CAF,2009,14.3,False
+Central African Republic,CAF,2010,13.6,False
+Central African Republic,CAF,2011,12.7,False
+Central African Republic,CAF,2012,23.2,False
+Central African Republic,CAF,2013,36.2,False
+Central African Republic,CAF,2014,39.9,False
+Central African Republic,CAF,2015,38.5,False
+Central African Republic,CAF,2016,35.5,False
+Central African Republic,CAF,2017,34.6,False
+Central African Republic,CAF,2018,35.3,False
+Central African Republic,CAF,2019,32.9,False
+Central African Republic,CAF,2020,29.6,False
+Central African Republic,CAF,2021,32.3,False
+Central African Republic,CAF,2022,34.2,False
+Central African Republic,CAF,2023,39.0,False
+Central African Republic,CAF,2024,41.6,False
+Central African Republic,CAF,2025,42.6,False
+Central African Republic,CAF,2026,43.5,True
+Central African Republic,CAF,2027,44.5,True
+Central African Republic,CAF,2028,45.3,True
+Central African Republic,CAF,2029,46.1,True
+Central African Republic,CAF,2030,47.1,True
+Central African Republic,CAF,2031,48.2,True
+Chad,TCD,1980,,False
+Chad,TCD,1981,,False
+Chad,TCD,1982,,False
+Chad,TCD,1983,,False
+Chad,TCD,1984,,False
+Chad,TCD,1985,,False
+Chad,TCD,1986,,False
+Chad,TCD,1987,,False
+Chad,TCD,1988,,False
+Chad,TCD,1989,,False
+Chad,TCD,1990,,False
+Chad,TCD,1991,,False
+Chad,TCD,1992,,False
+Chad,TCD,1993,,False
+Chad,TCD,1994,,False
+Chad,TCD,1995,,False
+Chad,TCD,1996,,False
+Chad,TCD,1997,,False
+Chad,TCD,1998,,False
+Chad,TCD,1999,44.7,False
+Chad,TCD,2000,52.4,False
+Chad,TCD,2001,43.5,False
+Chad,TCD,2002,42.0,False
+Chad,TCD,2003,34.4,False
+Chad,TCD,2004,25.2,False
+Chad,TCD,2005,22.0,False
+Chad,TCD,2006,20.1,False
+Chad,TCD,2007,17.6,False
+Chad,TCD,2008,15.7,False
+Chad,TCD,2009,23.9,False
+Chad,TCD,2010,22.9,False
+Chad,TCD,2011,22.3,False
+Chad,TCD,2012,20.0,False
+Chad,TCD,2013,22.3,False
+Chad,TCD,2014,29.4,False
+Chad,TCD,2015,31.3,False
+Chad,TCD,2016,40.2,False
+Chad,TCD,2017,39.1,False
+Chad,TCD,2018,33.8,False
+Chad,TCD,2019,38.4,False
+Chad,TCD,2020,41.6,False
+Chad,TCD,2021,41.7,False
+Chad,TCD,2022,32.1,False
+Chad,TCD,2023,32.2,False
+Chad,TCD,2024,31.4,False
+Chad,TCD,2025,33.3,False
+Chad,TCD,2026,31.1,True
+Chad,TCD,2027,29.6,True
+Chad,TCD,2028,28.6,True
+Chad,TCD,2029,27.3,True
+Chad,TCD,2030,25.9,True
+Chad,TCD,2031,24.8,True
+Comoros,COM,1980,,False
+Comoros,COM,1981,,False
+Comoros,COM,1982,,False
+Comoros,COM,1983,,False
+Comoros,COM,1984,150.1,False
+Comoros,COM,1985,142.8,False
+Comoros,COM,1986,136.6,False
+Comoros,COM,1987,128.8,False
+Comoros,COM,1988,119.9,False
+Comoros,COM,1989,113.7,False
+Comoros,COM,1990,108.1,False
+Comoros,COM,1991,103.9,False
+Comoros,COM,1992,101.0,False
+Comoros,COM,1993,95.7,False
+Comoros,COM,1994,87.8,False
+Comoros,COM,1995,77.7,False
+Comoros,COM,1996,75.4,False
+Comoros,COM,1997,70.9,False
+Comoros,COM,1998,69.4,False
+Comoros,COM,1999,64.5,False
+Comoros,COM,2000,60.7,False
+Comoros,COM,2001,53.0,False
+Comoros,COM,2002,48.2,False
+Comoros,COM,2003,44.4,False
+Comoros,COM,2004,42.4,False
+Comoros,COM,2005,39.9,False
+Comoros,COM,2006,38.5,False
+Comoros,COM,2007,36.2,False
+Comoros,COM,2008,33.4,False
+Comoros,COM,2009,31.8,False
+Comoros,COM,2010,30.1,False
+Comoros,COM,2011,27.6,False
+Comoros,COM,2012,25.0,False
+Comoros,COM,2013,10.5,False
+Comoros,COM,2014,12.0,False
+Comoros,COM,2015,13.6,False
+Comoros,COM,2016,15.7,False
+Comoros,COM,2017,19.4,False
+Comoros,COM,2018,17.5,False
+Comoros,COM,2019,22.4,False
+Comoros,COM,2020,25.5,False
+Comoros,COM,2021,27.9,False
+Comoros,COM,2022,30.6,False
+Comoros,COM,2023,32.4,False
+Comoros,COM,2024,31.9,False
+Comoros,COM,2025,30.5,False
+Comoros,COM,2026,34.7,True
+Comoros,COM,2027,34.1,True
+Comoros,COM,2028,32.8,True
+Comoros,COM,2029,30.8,True
+Comoros,COM,2030,29.4,True
+Comoros,COM,2031,28.9,True
+"Congo, Dem. Rep. of the",COD,1980,,False
+"Congo, Dem. Rep. of the",COD,1981,,False
+"Congo, Dem. Rep. of the",COD,1982,,False
+"Congo, Dem. Rep. of the",COD,1983,,False
+"Congo, Dem. Rep. of the",COD,1984,,False
+"Congo, Dem. Rep. of the",COD,1985,,False
+"Congo, Dem. Rep. of the",COD,1986,,False
+"Congo, Dem. Rep. of the",COD,1987,,False
+"Congo, Dem. Rep. of the",COD,1988,,False
+"Congo, Dem. Rep. of the",COD,1989,,False
+"Congo, Dem. Rep. of the",COD,1990,,False
+"Congo, Dem. Rep. of the",COD,1991,,False
+"Congo, Dem. Rep. of the",COD,1992,,False
+"Congo, Dem. Rep. of the",COD,1993,,False
+"Congo, Dem. Rep. of the",COD,1994,,False
+"Congo, Dem. Rep. of the",COD,1995,,False
+"Congo, Dem. Rep. of the",COD,1996,,False
+"Congo, Dem. Rep. of the",COD,1997,,False
+"Congo, Dem. Rep. of the",COD,1998,,False
+"Congo, Dem. Rep. of the",COD,1999,,False
+"Congo, Dem. Rep. of the",COD,2000,135.0,False
+"Congo, Dem. Rep. of the",COD,2001,185.4,False
+"Congo, Dem. Rep. of the",COD,2002,136.0,False
+"Congo, Dem. Rep. of the",COD,2003,114.5,False
+"Congo, Dem. Rep. of the",COD,2004,164.1,False
+"Congo, Dem. Rep. of the",COD,2005,112.0,False
+"Congo, Dem. Rep. of the",COD,2006,107.5,False
+"Congo, Dem. Rep. of the",COD,2007,85.1,False
+"Congo, Dem. Rep. of the",COD,2008,80.3,False
+"Congo, Dem. Rep. of the",COD,2009,91.6,False
+"Congo, Dem. Rep. of the",COD,2010,31.8,False
+"Congo, Dem. Rep. of the",COD,2011,7.8,False
+"Congo, Dem. Rep. of the",COD,2012,7.6,False
+"Congo, Dem. Rep. of the",COD,2013,8.3,False
+"Congo, Dem. Rep. of the",COD,2014,8.7,False
+"Congo, Dem. Rep. of the",COD,2015,10.2,False
+"Congo, Dem. Rep. of the",COD,2016,10.6,False
+"Congo, Dem. Rep. of the",COD,2017,8.4,False
+"Congo, Dem. Rep. of the",COD,2018,9.2,False
+"Congo, Dem. Rep. of the",COD,2019,9.7,False
+"Congo, Dem. Rep. of the",COD,2020,12.8,False
+"Congo, Dem. Rep. of the",COD,2021,15.6,False
+"Congo, Dem. Rep. of the",COD,2022,16.6,False
+"Congo, Dem. Rep. of the",COD,2023,17.2,False
+"Congo, Dem. Rep. of the",COD,2024,17.3,True
+"Congo, Dem. Rep. of the",COD,2025,20.4,True
+"Congo, Dem. Rep. of the",COD,2026,23.7,True
+"Congo, Dem. Rep. of the",COD,2027,26.9,True
+"Congo, Dem. Rep. of the",COD,2028,28.4,True
+"Congo, Dem. Rep. of the",COD,2029,30.0,True
+"Congo, Dem. Rep. of the",COD,2030,31.5,True
+"Congo, Dem. Rep. of the",COD,2031,32.6,True
+"Congo, Republic of",COG,1980,,False
+"Congo, Republic of",COG,1981,,False
+"Congo, Republic of",COG,1982,,False
+"Congo, Republic of",COG,1983,,False
+"Congo, Republic of",COG,1984,,False
+"Congo, Republic of",COG,1985,,False
+"Congo, Republic of",COG,1986,,False
+"Congo, Republic of",COG,1987,,False
+"Congo, Republic of",COG,1988,,False
+"Congo, Republic of",COG,1989,0.0,False
+"Congo, Republic of",COG,1990,0.0,False
+"Congo, Republic of",COG,1991,0.0,False
+"Congo, Republic of",COG,1992,0.0,False
+"Congo, Republic of",COG,1993,0.0,False
+"Congo, Republic of",COG,1994,0.0,False
+"Congo, Republic of",COG,1995,0.0,False
+"Congo, Republic of",COG,1996,0.0,False
+"Congo, Republic of",COG,1997,0.0,False
+"Congo, Republic of",COG,1998,0.0,False
+"Congo, Republic of",COG,1999,0.0,False
+"Congo, Republic of",COG,2000,145.0,False
+"Congo, Republic of",COG,2001,180.1,False
+"Congo, Republic of",COG,2002,163.5,False
+"Congo, Republic of",COG,2003,185.3,False
+"Congo, Republic of",COG,2004,122.6,False
+"Congo, Republic of",COG,2005,99.8,False
+"Congo, Republic of",COG,2006,94.7,False
+"Congo, Republic of",COG,2007,93.8,False
+"Congo, Republic of",COG,2008,69.6,False
+"Congo, Republic of",COG,2009,83.8,False
+"Congo, Republic of",COG,2010,43.5,False
+"Congo, Republic of",COG,2011,34.4,False
+"Congo, Republic of",COG,2012,30.2,False
+"Congo, Republic of",COG,2013,33.9,False
+"Congo, Republic of",COG,2014,42.3,False
+"Congo, Republic of",COG,2015,70.9,False
+"Congo, Republic of",COG,2016,84.5,False
+"Congo, Republic of",COG,2017,88.5,False
+"Congo, Republic of",COG,2018,71.2,False
+"Congo, Republic of",COG,2019,78.5,False
+"Congo, Republic of",COG,2020,110.0,False
+"Congo, Republic of",COG,2021,95.7,False
+"Congo, Republic of",COG,2022,84.1,False
+"Congo, Republic of",COG,2023,98.3,False
+"Congo, Republic of",COG,2024,93.8,False
+"Congo, Republic of",COG,2025,100.4,False
+"Congo, Republic of",COG,2026,80.5,True
+"Congo, Republic of",COG,2027,77.6,True
+"Congo, Republic of",COG,2028,74.6,True
+"Congo, Republic of",COG,2029,69.5,True
+"Congo, Republic of",COG,2030,63.5,True
+"Congo, Republic of",COG,2031,57.9,True
+Côte d'Ivoire,CIV,1980,,False
+Côte d'Ivoire,CIV,1981,,False
+Côte d'Ivoire,CIV,1982,,False
+Côte d'Ivoire,CIV,1983,,False
+Côte d'Ivoire,CIV,1984,,False
+Côte d'Ivoire,CIV,1985,,False
+Côte d'Ivoire,CIV,1986,,False
+Côte d'Ivoire,CIV,1987,,False
+Côte d'Ivoire,CIV,1988,,False
+Côte d'Ivoire,CIV,1989,,False
+Côte d'Ivoire,CIV,1990,,False
+Côte d'Ivoire,CIV,1991,,False
+Côte d'Ivoire,CIV,1992,,False
+Côte d'Ivoire,CIV,1993,,False
+Côte d'Ivoire,CIV,1994,,False
+Côte d'Ivoire,CIV,1995,,False
+Côte d'Ivoire,CIV,1996,,False
+Côte d'Ivoire,CIV,1997,84.2,False
+Côte d'Ivoire,CIV,1998,75.2,False
+Côte d'Ivoire,CIV,1999,78.0,False
+Côte d'Ivoire,CIV,2000,74.0,False
+Côte d'Ivoire,CIV,2001,71.2,False
+Côte d'Ivoire,CIV,2002,63.0,False
+Côte d'Ivoire,CIV,2003,56.4,False
+Côte d'Ivoire,CIV,2004,56.7,False
+Côte d'Ivoire,CIV,2005,58.2,False
+Côte d'Ivoire,CIV,2006,57.5,False
+Côte d'Ivoire,CIV,2007,53.5,False
+Côte d'Ivoire,CIV,2008,51.2,False
+Côte d'Ivoire,CIV,2009,46.5,False
+Côte d'Ivoire,CIV,2010,45.6,False
+Côte d'Ivoire,CIV,2011,50.0,False
+Côte d'Ivoire,CIV,2012,24.7,False
+Côte d'Ivoire,CIV,2013,24.6,False
+Côte d'Ivoire,CIV,2014,26.7,False
+Côte d'Ivoire,CIV,2015,29.2,False
+Côte d'Ivoire,CIV,2016,31.1,False
+Côte d'Ivoire,CIV,2017,32.6,False
+Côte d'Ivoire,CIV,2018,35.3,False
+Côte d'Ivoire,CIV,2019,37.2,False
+Côte d'Ivoire,CIV,2020,46.3,False
+Côte d'Ivoire,CIV,2021,50.2,False
+Côte d'Ivoire,CIV,2022,56.0,False
+Côte d'Ivoire,CIV,2023,56.7,False
+Côte d'Ivoire,CIV,2024,59.5,False
+Côte d'Ivoire,CIV,2025,57.1,False
+Côte d'Ivoire,CIV,2026,57.8,True
+Côte d'Ivoire,CIV,2027,56.9,True
+Côte d'Ivoire,CIV,2028,55.3,True
+Côte d'Ivoire,CIV,2029,53.7,True
+Côte d'Ivoire,CIV,2030,52.2,True
+Côte d'Ivoire,CIV,2031,50.9,True
+Djibouti,DJI,1980,,False
+Djibouti,DJI,1981,,False
+Djibouti,DJI,1982,,False
+Djibouti,DJI,1983,,False
+Djibouti,DJI,1984,,False
+Djibouti,DJI,1985,,False
+Djibouti,DJI,1986,,False
+Djibouti,DJI,1987,,False
+Djibouti,DJI,1988,,False
+Djibouti,DJI,1989,,False
+Djibouti,DJI,1990,,False
+Djibouti,DJI,1991,,False
+Djibouti,DJI,1992,,False
+Djibouti,DJI,1993,,False
+Djibouti,DJI,1994,,False
+Djibouti,DJI,1995,,False
+Djibouti,DJI,1996,,False
+Djibouti,DJI,1997,,False
+Djibouti,DJI,1998,,False
+Djibouti,DJI,1999,,False
+Djibouti,DJI,2000,,False
+Djibouti,DJI,2001,,False
+Djibouti,DJI,2002,,False
+Djibouti,DJI,2003,,False
+Djibouti,DJI,2004,,False
+Djibouti,DJI,2005,,False
+Djibouti,DJI,2006,,False
+Djibouti,DJI,2007,,False
+Djibouti,DJI,2008,,False
+Djibouti,DJI,2009,29.5,False
+Djibouti,DJI,2010,27.9,False
+Djibouti,DJI,2011,25.7,False
+Djibouti,DJI,2012,25.0,False
+Djibouti,DJI,2013,24.6,False
+Djibouti,DJI,2014,26.9,False
+Djibouti,DJI,2015,40.3,False
+Djibouti,DJI,2016,45.9,False
+Djibouti,DJI,2017,48.0,False
+Djibouti,DJI,2018,47.5,False
+Djibouti,DJI,2019,41.1,False
+Djibouti,DJI,2020,42.1,False
+Djibouti,DJI,2021,40.3,False
+Djibouti,DJI,2022,38.3,False
+Djibouti,DJI,2023,35.6,False
+Djibouti,DJI,2024,34.0,False
+Djibouti,DJI,2025,31.3,False
+Djibouti,DJI,2026,28.7,True
+Djibouti,DJI,2027,25.9,True
+Djibouti,DJI,2028,23.3,True
+Djibouti,DJI,2029,20.5,True
+Djibouti,DJI,2030,17.9,True
+Djibouti,DJI,2031,15.6,True
+Egypt,EGY,1980,,False
+Egypt,EGY,1981,,False
+Egypt,EGY,1982,,False
+Egypt,EGY,1983,,False
+Egypt,EGY,1984,,False
+Egypt,EGY,1985,,False
+Egypt,EGY,1986,,False
+Egypt,EGY,1987,,False
+Egypt,EGY,1988,,False
+Egypt,EGY,1989,,False
+Egypt,EGY,1990,,False
+Egypt,EGY,1991,,False
+Egypt,EGY,1992,,False
+Egypt,EGY,1993,,False
+Egypt,EGY,1994,,False
+Egypt,EGY,1995,,False
+Egypt,EGY,1996,,False
+Egypt,EGY,1997,,False
+Egypt,EGY,1998,73.8,False
+Egypt,EGY,1999,72.4,False
+Egypt,EGY,2000,71.7,False
+Egypt,EGY,2001,79.1,False
+Egypt,EGY,2002,85.8,False
+Egypt,EGY,2003,97.1,False
+Egypt,EGY,2004,96.5,False
+Egypt,EGY,2005,98.3,False
+Egypt,EGY,2006,85.9,False
+Egypt,EGY,2007,76.3,False
+Egypt,EGY,2008,66.8,False
+Egypt,EGY,2009,69.5,False
+Egypt,EGY,2010,69.6,False
+Egypt,EGY,2011,72.8,False
+Egypt,EGY,2012,69.9,False
+Egypt,EGY,2013,79.8,False
+Egypt,EGY,2014,80.9,False
+Egypt,EGY,2015,83.8,False
+Egypt,EGY,2016,91.6,False
+Egypt,EGY,2017,97.8,False
+Egypt,EGY,2018,87.9,False
+Egypt,EGY,2019,80.1,False
+Egypt,EGY,2020,86.2,False
+Egypt,EGY,2021,89.9,False
+Egypt,EGY,2022,88.5,False
+Egypt,EGY,2023,95.9,False
+Egypt,EGY,2024,90.9,False
+Egypt,EGY,2025,86.8,False
+Egypt,EGY,2026,84.0,True
+Egypt,EGY,2027,82.9,True
+Egypt,EGY,2028,81.4,True
+Egypt,EGY,2029,78.0,True
+Egypt,EGY,2030,75.0,True
+Egypt,EGY,2031,71.5,True
+Equatorial Guinea,GNQ,1980,146.2,False
+Equatorial Guinea,GNQ,1981,221.1,False
+Equatorial Guinea,GNQ,1982,260.7,False
+Equatorial Guinea,GNQ,1983,259.3,False
+Equatorial Guinea,GNQ,1984,257.9,False
+Equatorial Guinea,GNQ,1985,183.8,False
+Equatorial Guinea,GNQ,1986,152.5,False
+Equatorial Guinea,GNQ,1987,141.3,False
+Equatorial Guinea,GNQ,1988,154.5,False
+Equatorial Guinea,GNQ,1989,187.0,False
+Equatorial Guinea,GNQ,1990,157.0,False
+Equatorial Guinea,GNQ,1991,169.5,False
+Equatorial Guinea,GNQ,1992,136.9,False
+Equatorial Guinea,GNQ,1993,152.6,False
+Equatorial Guinea,GNQ,1994,216.0,False
+Equatorial Guinea,GNQ,1995,136.9,False
+Equatorial Guinea,GNQ,1996,91.2,False
+Equatorial Guinea,GNQ,1997,46.3,False
+Equatorial Guinea,GNQ,1998,59.2,False
+Equatorial Guinea,GNQ,1999,60.5,False
+Equatorial Guinea,GNQ,2000,36.6,False
+Equatorial Guinea,GNQ,2001,25.5,False
+Equatorial Guinea,GNQ,2002,19.4,False
+Equatorial Guinea,GNQ,2003,6.8,False
+Equatorial Guinea,GNQ,2004,4.5,False
+Equatorial Guinea,GNQ,2005,2.8,False
+Equatorial Guinea,GNQ,2006,1.2,False
+Equatorial Guinea,GNQ,2007,0.8,False
+Equatorial Guinea,GNQ,2008,0.5,False
+Equatorial Guinea,GNQ,2009,4.3,False
+Equatorial Guinea,GNQ,2010,7.9,False
+Equatorial Guinea,GNQ,2011,7.2,False
+Equatorial Guinea,GNQ,2012,7.1,False
+Equatorial Guinea,GNQ,2013,6.3,False
+Equatorial Guinea,GNQ,2014,12.6,False
+Equatorial Guinea,GNQ,2015,31.7,False
+Equatorial Guinea,GNQ,2016,41.1,False
+Equatorial Guinea,GNQ,2017,36.2,False
+Equatorial Guinea,GNQ,2018,40.6,False
+Equatorial Guinea,GNQ,2019,43.2,False
+Equatorial Guinea,GNQ,2020,49.4,False
+Equatorial Guinea,GNQ,2021,42.3,False
+Equatorial Guinea,GNQ,2022,29.8,False
+Equatorial Guinea,GNQ,2023,38.4,False
+Equatorial Guinea,GNQ,2024,35.0,False
+Equatorial Guinea,GNQ,2025,35.4,True
+Equatorial Guinea,GNQ,2026,32.9,True
+Equatorial Guinea,GNQ,2027,36.0,True
+Equatorial Guinea,GNQ,2028,38.6,True
+Equatorial Guinea,GNQ,2029,40.9,True
+Equatorial Guinea,GNQ,2030,42.3,True
+Equatorial Guinea,GNQ,2031,44.1,True
+Eritrea,ERI,1980,,False
+Eritrea,ERI,1981,,False
+Eritrea,ERI,1982,,False
+Eritrea,ERI,1983,,False
+Eritrea,ERI,1984,,False
+Eritrea,ERI,1985,,False
+Eritrea,ERI,1986,,False
+Eritrea,ERI,1987,,False
+Eritrea,ERI,1988,,False
+Eritrea,ERI,1989,,False
+Eritrea,ERI,1990,,False
+Eritrea,ERI,1991,,False
+Eritrea,ERI,1992,,False
+Eritrea,ERI,1993,,False
+Eritrea,ERI,1994,,False
+Eritrea,ERI,1995,,False
+Eritrea,ERI,1996,,False
+Eritrea,ERI,1997,,False
+Eritrea,ERI,1998,,False
+Eritrea,ERI,1999,,False
+Eritrea,ERI,2000,219.1,False
+Eritrea,ERI,2001,238.6,False
+Eritrea,ERI,2002,243.4,False
+Eritrea,ERI,2003,264.0,False
+Eritrea,ERI,2004,193.5,False
+Eritrea,ERI,2005,205.4,False
+Eritrea,ERI,2006,199.0,False
+Eritrea,ERI,2007,201.3,False
+Eritrea,ERI,2008,259.7,False
+Eritrea,ERI,2009,207.1,False
+Eritrea,ERI,2010,201.8,False
+Eritrea,ERI,2011,171.6,False
+Eritrea,ERI,2012,171.6,False
+Eritrea,ERI,2013,232.4,False
+Eritrea,ERI,2014,204.5,False
+Eritrea,ERI,2015,271.4,False
+Eritrea,ERI,2016,251.2,False
+Eritrea,ERI,2017,290.4,False
+Eritrea,ERI,2018,267.1,False
+Eritrea,ERI,2019,260.4,False
+Eritrea,ERI,2020,,True
+Eritrea,ERI,2021,,True
+Eritrea,ERI,2022,,True
+Eritrea,ERI,2023,,True
+Eritrea,ERI,2024,,True
+Eritrea,ERI,2025,,True
+Eritrea,ERI,2026,,True
+Eritrea,ERI,2027,,True
+Eritrea,ERI,2028,,True
+Eritrea,ERI,2029,,True
+Eritrea,ERI,2030,,True
+Eritrea,ERI,2031,,True
+Eswatini,SWZ,1980,,False
+Eswatini,SWZ,1981,,False
+Eswatini,SWZ,1982,,False
+Eswatini,SWZ,1983,,False
+Eswatini,SWZ,1984,,False
+Eswatini,SWZ,1985,,False
+Eswatini,SWZ,1986,,False
+Eswatini,SWZ,1987,,False
+Eswatini,SWZ,1988,,False
+Eswatini,SWZ,1989,,False
+Eswatini,SWZ,1990,,False
+Eswatini,SWZ,1991,,False
+Eswatini,SWZ,1992,,False
+Eswatini,SWZ,1993,15.0,False
+Eswatini,SWZ,1994,13.1,False
+Eswatini,SWZ,1995,12.5,False
+Eswatini,SWZ,1996,11.5,False
+Eswatini,SWZ,1997,12.7,False
+Eswatini,SWZ,1998,15.6,False
+Eswatini,SWZ,1999,16.7,False
+Eswatini,SWZ,2000,18.2,False
+Eswatini,SWZ,2001,21.7,False
+Eswatini,SWZ,2002,17.2,False
+Eswatini,SWZ,2003,17.7,False
+Eswatini,SWZ,2004,15.0,False
+Eswatini,SWZ,2005,13.6,False
+Eswatini,SWZ,2006,14.7,False
+Eswatini,SWZ,2007,16.1,False
+Eswatini,SWZ,2008,14.6,False
+Eswatini,SWZ,2009,10.6,False
+Eswatini,SWZ,2010,14.2,False
+Eswatini,SWZ,2011,14.6,False
+Eswatini,SWZ,2012,14.8,False
+Eswatini,SWZ,2013,15.2,False
+Eswatini,SWZ,2014,14.1,False
+Eswatini,SWZ,2015,16.0,False
+Eswatini,SWZ,2016,20.1,False
+Eswatini,SWZ,2017,21.7,False
+Eswatini,SWZ,2018,26.5,False
+Eswatini,SWZ,2019,30.5,False
+Eswatini,SWZ,2020,37.7,False
+Eswatini,SWZ,2021,37.3,False
+Eswatini,SWZ,2022,39.5,False
+Eswatini,SWZ,2023,39.4,False
+Eswatini,SWZ,2024,40.0,False
+Eswatini,SWZ,2025,44.8,False
+Eswatini,SWZ,2026,52.5,False
+Eswatini,SWZ,2027,54.4,True
+Eswatini,SWZ,2028,54.3,True
+Eswatini,SWZ,2029,53.7,True
+Eswatini,SWZ,2030,51.3,True
+Eswatini,SWZ,2031,48.0,True
+Ethiopia,ETH,1980,,False
+Ethiopia,ETH,1981,,False
+Ethiopia,ETH,1982,,False
+Ethiopia,ETH,1983,,False
+Ethiopia,ETH,1984,,False
+Ethiopia,ETH,1985,,False
+Ethiopia,ETH,1986,,False
+Ethiopia,ETH,1987,,False
+Ethiopia,ETH,1988,,False
+Ethiopia,ETH,1989,,False
+Ethiopia,ETH,1990,,False
+Ethiopia,ETH,1991,,False
+Ethiopia,ETH,1992,87.9,False
+Ethiopia,ETH,1993,141.0,False
+Ethiopia,ETH,1994,155.2,False
+Ethiopia,ETH,1995,146.6,False
+Ethiopia,ETH,1996,132.8,False
+Ethiopia,ETH,1997,80.3,False
+Ethiopia,ETH,1998,89.3,False
+Ethiopia,ETH,1999,97.8,False
+Ethiopia,ETH,2000,93.6,False
+Ethiopia,ETH,2001,97.3,False
+Ethiopia,ETH,2002,107.4,False
+Ethiopia,ETH,2003,103.7,False
+Ethiopia,ETH,2004,103.1,False
+Ethiopia,ETH,2005,78.2,False
+Ethiopia,ETH,2006,79.6,False
+Ethiopia,ETH,2007,55.7,False
+Ethiopia,ETH,2008,56.1,False
+Ethiopia,ETH,2009,30.0,False
+Ethiopia,ETH,2010,39.4,False
+Ethiopia,ETH,2011,44.6,False
+Ethiopia,ETH,2012,39.4,False
+Ethiopia,ETH,2013,44.1,False
+Ethiopia,ETH,2014,44.2,False
+Ethiopia,ETH,2015,50.7,False
+Ethiopia,ETH,2016,51.8,False
+Ethiopia,ETH,2017,55.3,False
+Ethiopia,ETH,2018,58.4,False
+Ethiopia,ETH,2019,54.7,False
+Ethiopia,ETH,2020,53.2,False
+Ethiopia,ETH,2021,53.8,False
+Ethiopia,ETH,2022,46.9,False
+Ethiopia,ETH,2023,38.7,False
+Ethiopia,ETH,2024,33.5,False
+Ethiopia,ETH,2025,43.3,False
+Ethiopia,ETH,2026,40.7,True
+Ethiopia,ETH,2027,37.0,True
+Ethiopia,ETH,2028,34.2,True
+Ethiopia,ETH,2029,31.8,True
+Ethiopia,ETH,2030,29.7,True
+Ethiopia,ETH,2031,27.5,True
+Gabon,GAB,1980,,False
+Gabon,GAB,1981,,False
+Gabon,GAB,1982,,False
+Gabon,GAB,1983,,False
+Gabon,GAB,1984,,False
+Gabon,GAB,1985,,False
+Gabon,GAB,1986,,False
+Gabon,GAB,1987,,False
+Gabon,GAB,1988,,False
+Gabon,GAB,1989,,False
+Gabon,GAB,1990,90.0,False
+Gabon,GAB,1991,89.3,False
+Gabon,GAB,1992,87.9,False
+Gabon,GAB,1993,90.1,False
+Gabon,GAB,1994,71.3,False
+Gabon,GAB,1995,73.4,False
+Gabon,GAB,1996,64.5,False
+Gabon,GAB,1997,57.0,False
+Gabon,GAB,1998,87.6,False
+Gabon,GAB,1999,73.1,False
+Gabon,GAB,2000,72.5,False
+Gabon,GAB,2001,81.0,False
+Gabon,GAB,2002,81.1,False
+Gabon,GAB,2003,70.2,False
+Gabon,GAB,2004,60.3,False
+Gabon,GAB,2005,41.7,False
+Gabon,GAB,2006,34.9,False
+Gabon,GAB,2007,39.2,False
+Gabon,GAB,2008,20.1,False
+Gabon,GAB,2009,26.0,False
+Gabon,GAB,2010,21.3,False
+Gabon,GAB,2011,21.4,False
+Gabon,GAB,2012,21.4,False
+Gabon,GAB,2013,31.1,False
+Gabon,GAB,2014,34.1,False
+Gabon,GAB,2015,44.7,False
+Gabon,GAB,2016,64.5,False
+Gabon,GAB,2017,62.9,False
+Gabon,GAB,2018,62.3,False
+Gabon,GAB,2019,59.8,False
+Gabon,GAB,2020,83.0,False
+Gabon,GAB,2021,72.9,False
+Gabon,GAB,2022,65.6,False
+Gabon,GAB,2023,70.6,False
+Gabon,GAB,2024,70.9,False
+Gabon,GAB,2025,84.2,False
+Gabon,GAB,2026,83.7,True
+Gabon,GAB,2027,92.4,True
+Gabon,GAB,2028,101.9,True
+Gabon,GAB,2029,109.5,True
+Gabon,GAB,2030,116.8,True
+Gabon,GAB,2031,123.8,True
+"Gambia, The",GMB,1980,,False
+"Gambia, The",GMB,1981,,False
+"Gambia, The",GMB,1982,,False
+"Gambia, The",GMB,1983,,False
+"Gambia, The",GMB,1984,,False
+"Gambia, The",GMB,1985,,False
+"Gambia, The",GMB,1986,,False
+"Gambia, The",GMB,1987,,False
+"Gambia, The",GMB,1988,,False
+"Gambia, The",GMB,1989,,False
+"Gambia, The",GMB,1990,,False
+"Gambia, The",GMB,1991,,False
+"Gambia, The",GMB,1992,,False
+"Gambia, The",GMB,1993,,False
+"Gambia, The",GMB,1994,,False
+"Gambia, The",GMB,1995,,False
+"Gambia, The",GMB,1996,,False
+"Gambia, The",GMB,1997,,False
+"Gambia, The",GMB,1998,,False
+"Gambia, The",GMB,1999,,False
+"Gambia, The",GMB,2000,73.3,False
+"Gambia, The",GMB,2001,75.2,False
+"Gambia, The",GMB,2002,93.9,False
+"Gambia, The",GMB,2003,91.7,False
+"Gambia, The",GMB,2004,81.3,False
+"Gambia, The",GMB,2005,82.6,False
+"Gambia, The",GMB,2006,87.3,False
+"Gambia, The",GMB,2007,38.0,False
+"Gambia, The",GMB,2008,39.5,False
+"Gambia, The",GMB,2009,38.9,False
+"Gambia, The",GMB,2010,42.9,False
+"Gambia, The",GMB,2011,49.2,False
+"Gambia, The",GMB,2012,49.5,False
+"Gambia, The",GMB,2013,58.2,False
+"Gambia, The",GMB,2014,71.1,False
+"Gambia, The",GMB,2015,69.4,False
+"Gambia, The",GMB,2016,80.9,False
+"Gambia, The",GMB,2017,87.0,False
+"Gambia, The",GMB,2018,83.6,False
+"Gambia, The",GMB,2019,83.0,False
+"Gambia, The",GMB,2020,85.9,False
+"Gambia, The",GMB,2021,83.1,False
+"Gambia, The",GMB,2022,83.9,False
+"Gambia, The",GMB,2023,77.4,False
+"Gambia, The",GMB,2024,75.9,True
+"Gambia, The",GMB,2025,73.7,True
+"Gambia, The",GMB,2026,67.4,True
+"Gambia, The",GMB,2027,70.4,True
+"Gambia, The",GMB,2028,64.7,True
+"Gambia, The",GMB,2029,60.1,True
+"Gambia, The",GMB,2030,55.7,True
+"Gambia, The",GMB,2031,51.1,True
+Ghana,GHA,1980,,False
+Ghana,GHA,1981,,False
+Ghana,GHA,1982,,False
+Ghana,GHA,1983,,False
+Ghana,GHA,1984,,False
+Ghana,GHA,1985,,False
+Ghana,GHA,1986,,False
+Ghana,GHA,1987,,False
+Ghana,GHA,1988,,False
+Ghana,GHA,1989,,False
+Ghana,GHA,1990,17.8,False
+Ghana,GHA,1991,17.3,False
+Ghana,GHA,1992,21.3,False
+Ghana,GHA,1993,34.1,False
+Ghana,GHA,1994,50.6,False
+Ghana,GHA,1995,47.6,False
+Ghana,GHA,1996,42.9,False
+Ghana,GHA,1997,45.2,False
+Ghana,GHA,1998,37.6,False
+Ghana,GHA,1999,51.7,False
+Ghana,GHA,2000,74.5,False
+Ghana,GHA,2001,57.8,False
+Ghana,GHA,2002,54.1,False
+Ghana,GHA,2003,49.3,False
+Ghana,GHA,2004,38.4,False
+Ghana,GHA,2005,31.7,False
+Ghana,GHA,2006,17.3,False
+Ghana,GHA,2007,21.1,False
+Ghana,GHA,2008,23.2,False
+Ghana,GHA,2009,25.4,False
+Ghana,GHA,2010,32.9,False
+Ghana,GHA,2011,31.2,False
+Ghana,GHA,2012,35.5,False
+Ghana,GHA,2013,42.9,False
+Ghana,GHA,2014,50.1,False
+Ghana,GHA,2015,53.9,False
+Ghana,GHA,2016,55.9,False
+Ghana,GHA,2017,57.0,False
+Ghana,GHA,2018,62.0,False
+Ghana,GHA,2019,62.9,False
+Ghana,GHA,2020,79.1,False
+Ghana,GHA,2021,86.9,False
+Ghana,GHA,2022,92.7,False
+Ghana,GHA,2023,79.1,False
+Ghana,GHA,2024,70.1,False
+Ghana,GHA,2025,48.8,False
+Ghana,GHA,2026,51.7,True
+Ghana,GHA,2027,50.8,True
+Ghana,GHA,2028,49.7,True
+Ghana,GHA,2029,49.0,True
+Ghana,GHA,2030,48.1,True
+Ghana,GHA,2031,47.3,True
+Guinea,GIN,1980,,False
+Guinea,GIN,1981,,False
+Guinea,GIN,1982,,False
+Guinea,GIN,1983,,False
+Guinea,GIN,1984,,False
+Guinea,GIN,1985,,False
+Guinea,GIN,1986,,False
+Guinea,GIN,1987,,False
+Guinea,GIN,1988,,False
+Guinea,GIN,1989,,False
+Guinea,GIN,1990,64.0,False
+Guinea,GIN,1991,63.3,False
+Guinea,GIN,1992,55.4,False
+Guinea,GIN,1993,61.6,False
+Guinea,GIN,1994,63.7,False
+Guinea,GIN,1995,59.4,False
+Guinea,GIN,1996,59.5,False
+Guinea,GIN,1997,58.8,False
+Guinea,GIN,1998,65.9,False
+Guinea,GIN,1999,78.6,False
+Guinea,GIN,2000,75.7,False
+Guinea,GIN,2001,74.2,False
+Guinea,GIN,2002,68.9,False
+Guinea,GIN,2003,66.6,False
+Guinea,GIN,2004,66.5,False
+Guinea,GIN,2005,76.1,False
+Guinea,GIN,2006,75.2,False
+Guinea,GIN,2007,45.8,False
+Guinea,GIN,2008,42.7,False
+Guinea,GIN,2009,40.2,False
+Guinea,GIN,2010,51.9,False
+Guinea,GIN,2011,36.1,False
+Guinea,GIN,2012,16.7,False
+Guinea,GIN,2013,19.6,False
+Guinea,GIN,2014,20.1,False
+Guinea,GIN,2015,27.3,False
+Guinea,GIN,2016,25.9,False
+Guinea,GIN,2017,24.7,False
+Guinea,GIN,2018,26.0,False
+Guinea,GIN,2019,25.4,False
+Guinea,GIN,2020,29.0,False
+Guinea,GIN,2021,27.9,False
+Guinea,GIN,2022,25.7,False
+Guinea,GIN,2023,25.9,False
+Guinea,GIN,2024,32.0,False
+Guinea,GIN,2025,36.3,False
+Guinea,GIN,2026,34.8,True
+Guinea,GIN,2027,31.9,True
+Guinea,GIN,2028,28.0,True
+Guinea,GIN,2029,24.4,True
+Guinea,GIN,2030,22.2,True
+Guinea,GIN,2031,20.1,True
+Guinea-Bissau,GNB,1980,,False
+Guinea-Bissau,GNB,1981,,False
+Guinea-Bissau,GNB,1982,,False
+Guinea-Bissau,GNB,1983,,False
+Guinea-Bissau,GNB,1984,,False
+Guinea-Bissau,GNB,1985,,False
+Guinea-Bissau,GNB,1986,,False
+Guinea-Bissau,GNB,1987,,False
+Guinea-Bissau,GNB,1988,,False
+Guinea-Bissau,GNB,1989,,False
+Guinea-Bissau,GNB,1990,,False
+Guinea-Bissau,GNB,1991,,False
+Guinea-Bissau,GNB,1992,,False
+Guinea-Bissau,GNB,1993,,False
+Guinea-Bissau,GNB,1994,,False
+Guinea-Bissau,GNB,1995,,False
+Guinea-Bissau,GNB,1996,,False
+Guinea-Bissau,GNB,1997,94.3,False
+Guinea-Bissau,GNB,1998,109.1,False
+Guinea-Bissau,GNB,1999,109.9,False
+Guinea-Bissau,GNB,2000,217.1,False
+Guinea-Bissau,GNB,2001,204.4,False
+Guinea-Bissau,GNB,2002,197.5,False
+Guinea-Bissau,GNB,2003,183.4,False
+Guinea-Bissau,GNB,2004,202.0,False
+Guinea-Bissau,GNB,2005,203.7,False
+Guinea-Bissau,GNB,2006,190.4,False
+Guinea-Bissau,GNB,2007,164.0,False
+Guinea-Bissau,GNB,2008,148.8,False
+Guinea-Bissau,GNB,2009,148.3,False
+Guinea-Bissau,GNB,2010,61.7,False
+Guinea-Bissau,GNB,2011,45.6,False
+Guinea-Bissau,GNB,2012,47.4,False
+Guinea-Bissau,GNB,2013,49.6,False
+Guinea-Bissau,GNB,2014,60.1,False
+Guinea-Bissau,GNB,2015,56.3,False
+Guinea-Bissau,GNB,2016,59.1,False
+Guinea-Bissau,GNB,2017,51.8,False
+Guinea-Bissau,GNB,2018,59.1,False
+Guinea-Bissau,GNB,2019,65.1,False
+Guinea-Bissau,GNB,2020,77.6,False
+Guinea-Bissau,GNB,2021,78.8,False
+Guinea-Bissau,GNB,2022,80.7,False
+Guinea-Bissau,GNB,2023,79.4,False
+Guinea-Bissau,GNB,2024,82.4,False
+Guinea-Bissau,GNB,2025,75.1,True
+Guinea-Bissau,GNB,2026,73.9,True
+Guinea-Bissau,GNB,2027,72.0,True
+Guinea-Bissau,GNB,2028,70.1,True
+Guinea-Bissau,GNB,2029,68.2,True
+Guinea-Bissau,GNB,2030,66.6,True
+Guinea-Bissau,GNB,2031,65.6,True
+Kenya,KEN,1980,,False
+Kenya,KEN,1981,,False
+Kenya,KEN,1982,,False
+Kenya,KEN,1983,,False
+Kenya,KEN,1984,,False
+Kenya,KEN,1985,,False
+Kenya,KEN,1986,,False
+Kenya,KEN,1987,,False
+Kenya,KEN,1988,,False
+Kenya,KEN,1989,,False
+Kenya,KEN,1990,,False
+Kenya,KEN,1991,,False
+Kenya,KEN,1992,,False
+Kenya,KEN,1993,,False
+Kenya,KEN,1994,,False
+Kenya,KEN,1995,,False
+Kenya,KEN,1996,,False
+Kenya,KEN,1997,,False
+Kenya,KEN,1998,38.5,False
+Kenya,KEN,1999,38.4,False
+Kenya,KEN,2000,43.1,False
+Kenya,KEN,2001,41.3,False
+Kenya,KEN,2002,42.0,False
+Kenya,KEN,2003,43.8,False
+Kenya,KEN,2004,40.8,False
+Kenya,KEN,2005,37.4,False
+Kenya,KEN,2006,37.1,False
+Kenya,KEN,2007,34.2,False
+Kenya,KEN,2008,34.3,False
+Kenya,KEN,2009,36.0,False
+Kenya,KEN,2010,36.7,False
+Kenya,KEN,2011,35.7,False
+Kenya,KEN,2012,37.6,False
+Kenya,KEN,2013,39.8,False
+Kenya,KEN,2014,41.3,False
+Kenya,KEN,2015,45.8,False
+Kenya,KEN,2016,50.4,False
+Kenya,KEN,2017,53.9,False
+Kenya,KEN,2018,56.4,False
+Kenya,KEN,2019,59.1,False
+Kenya,KEN,2020,68.0,False
+Kenya,KEN,2021,68.2,False
+Kenya,KEN,2022,67.8,False
+Kenya,KEN,2023,73.4,False
+Kenya,KEN,2024,67.3,False
+Kenya,KEN,2025,71.3,False
+Kenya,KEN,2026,72.9,True
+Kenya,KEN,2027,73.8,True
+Kenya,KEN,2028,74.4,True
+Kenya,KEN,2029,74.4,True
+Kenya,KEN,2030,74.3,True
+Kenya,KEN,2031,74.0,True
+Lesotho,LSO,1980,,False
+Lesotho,LSO,1981,,False
+Lesotho,LSO,1982,,False
+Lesotho,LSO,1983,,False
+Lesotho,LSO,1984,,False
+Lesotho,LSO,1985,,False
+Lesotho,LSO,1986,,False
+Lesotho,LSO,1987,,False
+Lesotho,LSO,1988,23.3,False
+Lesotho,LSO,1989,25.5,False
+Lesotho,LSO,1990,18.0,False
+Lesotho,LSO,1991,11.9,False
+Lesotho,LSO,1992,64.4,False
+Lesotho,LSO,1993,71.2,False
+Lesotho,LSO,1994,67.0,False
+Lesotho,LSO,1995,62.8,False
+Lesotho,LSO,1996,71.6,False
+Lesotho,LSO,1997,65.7,False
+Lesotho,LSO,1998,79.4,False
+Lesotho,LSO,1999,83.0,False
+Lesotho,LSO,2000,88.5,False
+Lesotho,LSO,2001,108.7,False
+Lesotho,LSO,2002,79.6,False
+Lesotho,LSO,2003,52.6,False
+Lesotho,LSO,2004,49.4,False
+Lesotho,LSO,2005,41.0,False
+Lesotho,LSO,2006,43.7,False
+Lesotho,LSO,2007,49.6,False
+Lesotho,LSO,2008,47.0,False
+Lesotho,LSO,2009,35.9,False
+Lesotho,LSO,2010,33.8,False
+Lesotho,LSO,2011,36.2,False
+Lesotho,LSO,2012,39.8,False
+Lesotho,LSO,2013,41.2,False
+Lesotho,LSO,2014,41.5,False
+Lesotho,LSO,2015,45.8,False
+Lesotho,LSO,2016,41.5,False
+Lesotho,LSO,2017,41.0,False
+Lesotho,LSO,2018,48.2,False
+Lesotho,LSO,2019,58.2,False
+Lesotho,LSO,2020,54.7,False
+Lesotho,LSO,2021,58.0,False
+Lesotho,LSO,2022,64.6,False
+Lesotho,LSO,2023,61.0,False
+Lesotho,LSO,2024,52.5,False
+Lesotho,LSO,2025,49.4,False
+Lesotho,LSO,2026,47.5,False
+Lesotho,LSO,2027,48.0,True
+Lesotho,LSO,2028,48.5,True
+Lesotho,LSO,2029,49.2,True
+Lesotho,LSO,2030,50.7,True
+Lesotho,LSO,2031,52.2,True
+Liberia,LBR,1980,,False
+Liberia,LBR,1981,,False
+Liberia,LBR,1982,,False
+Liberia,LBR,1983,,False
+Liberia,LBR,1984,,False
+Liberia,LBR,1985,,False
+Liberia,LBR,1986,,False
+Liberia,LBR,1987,,False
+Liberia,LBR,1988,,False
+Liberia,LBR,1989,,False
+Liberia,LBR,1990,,False
+Liberia,LBR,1991,,False
+Liberia,LBR,1992,,False
+Liberia,LBR,1993,,False
+Liberia,LBR,1994,,False
+Liberia,LBR,1995,,False
+Liberia,LBR,1996,,False
+Liberia,LBR,1997,,False
+Liberia,LBR,1998,,False
+Liberia,LBR,1999,,False
+Liberia,LBR,2000,468.1,False
+Liberia,LBR,2001,465.2,False
+Liberia,LBR,2002,463.6,False
+Liberia,LBR,2003,600.1,False
+Liberia,LBR,2004,543.4,False
+Liberia,LBR,2005,488.5,False
+Liberia,LBR,2006,450.9,False
+Liberia,LBR,2007,366.8,False
+Liberia,LBR,2008,235.3,False
+Liberia,LBR,2009,132.2,False
+Liberia,LBR,2010,25.4,False
+Liberia,LBR,2011,22.5,False
+Liberia,LBR,2012,20.5,False
+Liberia,LBR,2013,20.6,False
+Liberia,LBR,2014,24.3,False
+Liberia,LBR,2015,24.4,False
+Liberia,LBR,2016,28.0,False
+Liberia,LBR,2017,31.8,False
+Liberia,LBR,2018,36.2,False
+Liberia,LBR,2019,48.1,False
+Liberia,LBR,2020,58.5,False
+Liberia,LBR,2021,53.5,False
+Liberia,LBR,2022,54.4,False
+Liberia,LBR,2023,57.2,False
+Liberia,LBR,2024,56.4,False
+Liberia,LBR,2025,55.1,False
+Liberia,LBR,2026,54.0,True
+Liberia,LBR,2027,55.1,True
+Liberia,LBR,2028,53.6,True
+Liberia,LBR,2029,52.8,True
+Liberia,LBR,2030,52.3,True
+Liberia,LBR,2031,50.7,True
+Libya,LBY,1980,,False
+Libya,LBY,1981,,False
+Libya,LBY,1982,,False
+Libya,LBY,1983,,False
+Libya,LBY,1984,,False
+Libya,LBY,1985,,False
+Libya,LBY,1986,,False
+Libya,LBY,1987,,False
+Libya,LBY,1988,,False
+Libya,LBY,1989,,False
+Libya,LBY,1990,71.2,False
+Libya,LBY,1991,64.9,False
+Libya,LBY,1992,62.8,False
+Libya,LBY,1993,64.3,False
+Libya,LBY,1994,61.4,False
+Libya,LBY,1995,59.7,False
+Libya,LBY,1996,67.2,False
+Libya,LBY,1997,63.6,False
+Libya,LBY,1998,67.7,False
+Libya,LBY,1999,55.3,False
+Libya,LBY,2000,42.4,False
+Libya,LBY,2001,41.8,False
+Libya,LBY,2002,34.0,False
+Libya,LBY,2003,26.3,False
+Libya,LBY,2004,4.0,False
+Libya,LBY,2005,3.2,False
+Libya,LBY,2006,2.7,False
+Libya,LBY,2007,3.4,False
+Libya,LBY,2008,2.5,False
+Libya,LBY,2009,1.4,False
+Libya,LBY,2010,12.0,False
+Libya,LBY,2011,4.2,False
+Libya,LBY,2012,2.7,False
+Libya,LBY,2013,25.9,False
+Libya,LBY,2014,60.2,False
+Libya,LBY,2015,69.4,False
+Libya,LBY,2016,89.5,False
+Libya,LBY,2017,91.8,False
+Libya,LBY,2018,95.9,False
+Libya,LBY,2019,110.3,False
+Libya,LBY,2020,238.0,False
+Libya,LBY,2021,98.4,False
+Libya,LBY,2022,77.6,False
+Libya,LBY,2023,91.6,False
+Libya,LBY,2024,115.3,False
+Libya,LBY,2025,153.8,False
+Libya,LBY,2026,125.2,True
+Libya,LBY,2027,132.1,True
+Libya,LBY,2028,149.2,True
+Libya,LBY,2029,158.6,True
+Libya,LBY,2030,166.5,True
+Libya,LBY,2031,174.4,True
+Madagascar,MDG,1980,,False
+Madagascar,MDG,1981,,False
+Madagascar,MDG,1982,,False
+Madagascar,MDG,1983,,False
+Madagascar,MDG,1984,,False
+Madagascar,MDG,1985,,False
+Madagascar,MDG,1986,,False
+Madagascar,MDG,1987,,False
+Madagascar,MDG,1988,,False
+Madagascar,MDG,1989,,False
+Madagascar,MDG,1990,92.7,False
+Madagascar,MDG,1991,113.8,False
+Madagascar,MDG,1992,110.9,False
+Madagascar,MDG,1993,105.2,False
+Madagascar,MDG,1994,96.0,False
+Madagascar,MDG,1995,95.8,False
+Madagascar,MDG,1996,98.7,False
+Madagascar,MDG,1997,89.7,False
+Madagascar,MDG,1998,108.5,False
+Madagascar,MDG,1999,104.1,False
+Madagascar,MDG,2000,90.2,False
+Madagascar,MDG,2001,82.1,False
+Madagascar,MDG,2002,86.7,False
+Madagascar,MDG,2003,85.9,False
+Madagascar,MDG,2004,81.9,False
+Madagascar,MDG,2005,74.4,False
+Madagascar,MDG,2006,32.2,False
+Madagascar,MDG,2007,28.2,False
+Madagascar,MDG,2008,31.0,False
+Madagascar,MDG,2009,34.9,False
+Madagascar,MDG,2010,32.3,False
+Madagascar,MDG,2011,29.9,False
+Madagascar,MDG,2012,30.4,False
+Madagascar,MDG,2013,36.2,False
+Madagascar,MDG,2014,37.8,False
+Madagascar,MDG,2015,44.1,False
+Madagascar,MDG,2016,40.3,False
+Madagascar,MDG,2017,40.1,False
+Madagascar,MDG,2018,42.9,False
+Madagascar,MDG,2019,41.3,False
+Madagascar,MDG,2020,52.9,False
+Madagascar,MDG,2021,49.4,False
+Madagascar,MDG,2022,49.8,False
+Madagascar,MDG,2023,52.1,False
+Madagascar,MDG,2024,49.8,False
+Madagascar,MDG,2025,47.7,False
+Madagascar,MDG,2026,49.8,True
+Madagascar,MDG,2027,50.6,True
+Madagascar,MDG,2028,50.9,True
+Madagascar,MDG,2029,50.9,True
+Madagascar,MDG,2030,49.9,True
+Madagascar,MDG,2031,49.7,True
+Malawi,MWI,1980,,False
+Malawi,MWI,1981,,False
+Malawi,MWI,1982,,False
+Malawi,MWI,1983,,False
+Malawi,MWI,1984,,False
+Malawi,MWI,1985,,False
+Malawi,MWI,1986,,False
+Malawi,MWI,1987,,False
+Malawi,MWI,1988,,False
+Malawi,MWI,1989,,False
+Malawi,MWI,1990,,False
+Malawi,MWI,1991,,False
+Malawi,MWI,1992,,False
+Malawi,MWI,1993,,False
+Malawi,MWI,1994,,False
+Malawi,MWI,1995,,False
+Malawi,MWI,1996,,False
+Malawi,MWI,1997,,False
+Malawi,MWI,1998,,False
+Malawi,MWI,1999,,False
+Malawi,MWI,2000,,False
+Malawi,MWI,2001,,False
+Malawi,MWI,2002,101.5,False
+Malawi,MWI,2003,84.7,False
+Malawi,MWI,2004,74.7,False
+Malawi,MWI,2005,70.9,False
+Malawi,MWI,2006,17.9,False
+Malawi,MWI,2007,18.9,False
+Malawi,MWI,2008,23.5,False
+Malawi,MWI,2009,23.5,False
+Malawi,MWI,2010,19.3,False
+Malawi,MWI,2011,20.0,False
+Malawi,MWI,2012,28.6,False
+Malawi,MWI,2013,35.3,False
+Malawi,MWI,2014,33.5,False
+Malawi,MWI,2015,35.5,False
+Malawi,MWI,2016,37.1,False
+Malawi,MWI,2017,40.0,False
+Malawi,MWI,2018,40.8,False
+Malawi,MWI,2019,41.2,False
+Malawi,MWI,2020,53.9,False
+Malawi,MWI,2021,66.5,False
+Malawi,MWI,2022,75.7,False
+Malawi,MWI,2023,84.5,False
+Malawi,MWI,2024,86.5,False
+Malawi,MWI,2025,96.6,False
+Malawi,MWI,2026,78.0,True
+Malawi,MWI,2027,75.0,True
+Malawi,MWI,2028,71.8,True
+Malawi,MWI,2029,69.6,True
+Malawi,MWI,2030,68.3,True
+Malawi,MWI,2031,67.5,True
+Mali,MLI,1980,,False
+Mali,MLI,1981,,False
+Mali,MLI,1982,,False
+Mali,MLI,1983,,False
+Mali,MLI,1984,,False
+Mali,MLI,1985,,False
+Mali,MLI,1986,,False
+Mali,MLI,1987,,False
+Mali,MLI,1988,,False
+Mali,MLI,1989,,False
+Mali,MLI,1990,,False
+Mali,MLI,1991,,False
+Mali,MLI,1992,,False
+Mali,MLI,1993,,False
+Mali,MLI,1994,,False
+Mali,MLI,1995,,False
+Mali,MLI,1996,,False
+Mali,MLI,1997,,False
+Mali,MLI,1998,,False
+Mali,MLI,1999,,False
+Mali,MLI,2000,77.0,False
+Mali,MLI,2001,66.3,False
+Mali,MLI,2002,36.0,False
+Mali,MLI,2003,37.7,False
+Mali,MLI,2004,36.1,False
+Mali,MLI,2005,39.5,False
+Mali,MLI,2006,15.4,False
+Mali,MLI,2007,15.6,False
+Mali,MLI,2008,17.3,False
+Mali,MLI,2009,18.8,False
+Mali,MLI,2010,21.8,False
+Mali,MLI,2011,20.1,False
+Mali,MLI,2012,21.3,False
+Mali,MLI,2013,22.2,False
+Mali,MLI,2014,22.6,False
+Mali,MLI,2015,25.8,False
+Mali,MLI,2016,30.1,False
+Mali,MLI,2017,30.1,False
+Mali,MLI,2018,31.4,False
+Mali,MLI,2019,34.3,False
+Mali,MLI,2020,39.8,False
+Mali,MLI,2021,43.2,False
+Mali,MLI,2022,42.9,False
+Mali,MLI,2023,44.2,False
+Mali,MLI,2024,44.0,False
+Mali,MLI,2025,40.3,False
+Mali,MLI,2026,39.7,True
+Mali,MLI,2027,39.0,True
+Mali,MLI,2028,38.9,True
+Mali,MLI,2029,39.1,True
+Mali,MLI,2030,39.4,True
+Mali,MLI,2031,39.8,True
+Mauritania,MRT,1980,,False
+Mauritania,MRT,1981,,False
+Mauritania,MRT,1982,,False
+Mauritania,MRT,1983,,False
+Mauritania,MRT,1984,,False
+Mauritania,MRT,1985,,False
+Mauritania,MRT,1986,,False
+Mauritania,MRT,1987,,False
+Mauritania,MRT,1988,,False
+Mauritania,MRT,1989,,False
+Mauritania,MRT,1990,,False
+Mauritania,MRT,1991,,False
+Mauritania,MRT,1992,,False
+Mauritania,MRT,1993,,False
+Mauritania,MRT,1994,,False
+Mauritania,MRT,1995,,False
+Mauritania,MRT,1996,,False
+Mauritania,MRT,1997,,False
+Mauritania,MRT,1998,,False
+Mauritania,MRT,1999,,False
+Mauritania,MRT,2000,55.5,False
+Mauritania,MRT,2001,63.5,False
+Mauritania,MRT,2002,59.5,False
+Mauritania,MRT,2003,22.9,False
+Mauritania,MRT,2004,22.0,False
+Mauritania,MRT,2005,71.1,False
+Mauritania,MRT,2006,38.0,False
+Mauritania,MRT,2007,61.5,False
+Mauritania,MRT,2008,57.2,False
+Mauritania,MRT,2009,54.3,False
+Mauritania,MRT,2010,43.9,False
+Mauritania,MRT,2011,38.8,False
+Mauritania,MRT,2012,39.3,False
+Mauritania,MRT,2013,40.7,False
+Mauritania,MRT,2014,49.5,False
+Mauritania,MRT,2015,59.9,False
+Mauritania,MRT,2016,57.6,False
+Mauritania,MRT,2017,55.7,False
+Mauritania,MRT,2018,59.2,False
+Mauritania,MRT,2019,57.7,False
+Mauritania,MRT,2020,56.5,False
+Mauritania,MRT,2021,54.5,False
+Mauritania,MRT,2022,50.1,False
+Mauritania,MRT,2023,48.6,False
+Mauritania,MRT,2024,45.2,False
+Mauritania,MRT,2025,40.4,False
+Mauritania,MRT,2026,38.3,True
+Mauritania,MRT,2027,38.5,True
+Mauritania,MRT,2028,38.2,True
+Mauritania,MRT,2029,38.3,True
+Mauritania,MRT,2030,39.1,True
+Mauritania,MRT,2031,39.8,True
+Mauritius,MUS,1980,,False
+Mauritius,MUS,1981,,False
+Mauritius,MUS,1982,,False
+Mauritius,MUS,1983,,False
+Mauritius,MUS,1984,,False
+Mauritius,MUS,1985,,False
+Mauritius,MUS,1986,,False
+Mauritius,MUS,1987,,False
+Mauritius,MUS,1988,,False
+Mauritius,MUS,1989,,False
+Mauritius,MUS,1990,,False
+Mauritius,MUS,1991,,False
+Mauritius,MUS,1992,,False
+Mauritius,MUS,1993,,False
+Mauritius,MUS,1994,,False
+Mauritius,MUS,1995,,False
+Mauritius,MUS,1996,,False
+Mauritius,MUS,1997,,False
+Mauritius,MUS,1998,,False
+Mauritius,MUS,1999,,False
+Mauritius,MUS,2000,56.9,False
+Mauritius,MUS,2001,58.2,False
+Mauritius,MUS,2002,63.0,False
+Mauritius,MUS,2003,66.9,False
+Mauritius,MUS,2004,59.4,False
+Mauritius,MUS,2005,58.3,False
+Mauritius,MUS,2006,55.3,False
+Mauritius,MUS,2007,48.8,False
+Mauritius,MUS,2008,48.8,False
+Mauritius,MUS,2009,56.8,False
+Mauritius,MUS,2010,54.4,False
+Mauritius,MUS,2011,54.9,False
+Mauritius,MUS,2012,54.2,False
+Mauritius,MUS,2013,56.5,False
+Mauritius,MUS,2014,59.1,False
+Mauritius,MUS,2015,63.0,False
+Mauritius,MUS,2016,62.6,False
+Mauritius,MUS,2017,61.3,False
+Mauritius,MUS,2018,63.1,False
+Mauritius,MUS,2019,81.1,False
+Mauritius,MUS,2020,91.9,False
+Mauritius,MUS,2021,86.1,False
+Mauritius,MUS,2022,81.8,False
+Mauritius,MUS,2023,81.5,False
+Mauritius,MUS,2024,86.3,False
+Mauritius,MUS,2025,86.8,False
+Mauritius,MUS,2026,87.6,True
+Mauritius,MUS,2027,88.3,True
+Mauritius,MUS,2028,88.7,True
+Mauritius,MUS,2029,88.7,True
+Mauritius,MUS,2030,88.7,True
+Mauritius,MUS,2031,88.9,True
+Morocco,MAR,1980,,False
+Morocco,MAR,1981,,False
+Morocco,MAR,1982,,False
+Morocco,MAR,1983,,False
+Morocco,MAR,1984,,False
+Morocco,MAR,1985,,False
+Morocco,MAR,1986,,False
+Morocco,MAR,1987,,False
+Morocco,MAR,1988,,False
+Morocco,MAR,1989,,False
+Morocco,MAR,1990,70.5,False
+Morocco,MAR,1991,59.1,False
+Morocco,MAR,1992,67.0,False
+Morocco,MAR,1993,74.7,False
+Morocco,MAR,1994,69.3,False
+Morocco,MAR,1995,72.2,False
+Morocco,MAR,1996,65.3,False
+Morocco,MAR,1997,68.0,False
+Morocco,MAR,1998,64.5,False
+Morocco,MAR,1999,63.4,False
+Morocco,MAR,2000,64.9,False
+Morocco,MAR,2001,60.4,False
+Morocco,MAR,2002,59.4,False
+Morocco,MAR,2003,56.9,False
+Morocco,MAR,2004,54.4,False
+Morocco,MAR,2005,54.8,False
+Morocco,MAR,2006,50.6,False
+Morocco,MAR,2007,47.1,False
+Morocco,MAR,2008,42.0,False
+Morocco,MAR,2009,42.6,False
+Morocco,MAR,2010,45.3,False
+Morocco,MAR,2011,48.6,False
+Morocco,MAR,2012,52.3,False
+Morocco,MAR,2013,57.1,False
+Morocco,MAR,2014,58.6,False
+Morocco,MAR,2015,58.4,False
+Morocco,MAR,2016,60.1,False
+Morocco,MAR,2017,60.3,False
+Morocco,MAR,2018,60.5,False
+Morocco,MAR,2019,60.3,False
+Morocco,MAR,2020,72.2,False
+Morocco,MAR,2021,69.4,False
+Morocco,MAR,2022,71.4,False
+Morocco,MAR,2023,68.4,False
+Morocco,MAR,2024,67.0,False
+Morocco,MAR,2025,66.6,False
+Morocco,MAR,2026,66.6,True
+Morocco,MAR,2027,66.2,True
+Morocco,MAR,2028,65.3,True
+Morocco,MAR,2029,63.9,True
+Morocco,MAR,2030,62.6,True
+Morocco,MAR,2031,61.6,True
+Mozambique,MOZ,1980,,False
+Mozambique,MOZ,1981,,False
+Mozambique,MOZ,1982,,False
+Mozambique,MOZ,1983,,False
+Mozambique,MOZ,1984,,False
+Mozambique,MOZ,1985,,False
+Mozambique,MOZ,1986,,False
+Mozambique,MOZ,1987,,False
+Mozambique,MOZ,1988,,False
+Mozambique,MOZ,1989,,False
+Mozambique,MOZ,1990,,False
+Mozambique,MOZ,1991,,False
+Mozambique,MOZ,1992,,False
+Mozambique,MOZ,1993,,False
+Mozambique,MOZ,1994,,False
+Mozambique,MOZ,1995,,False
+Mozambique,MOZ,1996,,False
+Mozambique,MOZ,1997,,False
+Mozambique,MOZ,1998,,False
+Mozambique,MOZ,1999,94.7,False
+Mozambique,MOZ,2000,95.8,False
+Mozambique,MOZ,2001,99.8,False
+Mozambique,MOZ,2002,63.4,False
+Mozambique,MOZ,2003,63.2,False
+Mozambique,MOZ,2004,50.8,False
+Mozambique,MOZ,2005,60.1,False
+Mozambique,MOZ,2006,40.0,False
+Mozambique,MOZ,2007,31.2,False
+Mozambique,MOZ,2008,32.8,False
+Mozambique,MOZ,2009,39.3,False
+Mozambique,MOZ,2010,38.6,False
+Mozambique,MOZ,2011,34.2,False
+Mozambique,MOZ,2012,36.7,False
+Mozambique,MOZ,2013,49.5,False
+Mozambique,MOZ,2014,63.4,False
+Mozambique,MOZ,2015,86.0,False
+Mozambique,MOZ,2016,124.8,False
+Mozambique,MOZ,2017,103.8,False
+Mozambique,MOZ,2018,105.5,False
+Mozambique,MOZ,2019,98.3,False
+Mozambique,MOZ,2020,120.0,False
+Mozambique,MOZ,2021,101.4,False
+Mozambique,MOZ,2022,97.3,False
+Mozambique,MOZ,2023,90.8,False
+Mozambique,MOZ,2024,91.2,True
+Mozambique,MOZ,2025,90.3,True
+Mozambique,MOZ,2026,91.0,True
+Mozambique,MOZ,2027,98.6,True
+Mozambique,MOZ,2028,104.8,True
+Mozambique,MOZ,2029,109.8,True
+Mozambique,MOZ,2030,108.8,True
+Mozambique,MOZ,2031,98.7,True
+Namibia,NAM,1980,,False
+Namibia,NAM,1981,,False
+Namibia,NAM,1982,,False
+Namibia,NAM,1983,,False
+Namibia,NAM,1984,,False
+Namibia,NAM,1985,,False
+Namibia,NAM,1986,,False
+Namibia,NAM,1987,,False
+Namibia,NAM,1988,,False
+Namibia,NAM,1989,,False
+Namibia,NAM,1990,,False
+Namibia,NAM,1991,,False
+Namibia,NAM,1992,,False
+Namibia,NAM,1993,17.2,False
+Namibia,NAM,1994,16.4,False
+Namibia,NAM,1995,18.0,False
+Namibia,NAM,1996,18.7,False
+Namibia,NAM,1997,17.7,False
+Namibia,NAM,1998,19.6,False
+Namibia,NAM,1999,21.8,False
+Namibia,NAM,2000,20.9,False
+Namibia,NAM,2001,24.4,False
+Namibia,NAM,2002,22.2,False
+Namibia,NAM,2003,27.1,False
+Namibia,NAM,2004,29.2,False
+Namibia,NAM,2005,26.9,False
+Namibia,NAM,2006,26.1,False
+Namibia,NAM,2007,19.4,False
+Namibia,NAM,2008,19.1,False
+Namibia,NAM,2009,15.9,False
+Namibia,NAM,2010,16.3,False
+Namibia,NAM,2011,27.4,False
+Namibia,NAM,2012,24.6,False
+Namibia,NAM,2013,26.1,False
+Namibia,NAM,2014,27.6,False
+Namibia,NAM,2015,42.1,False
+Namibia,NAM,2016,45.8,False
+Namibia,NAM,2017,43.8,False
+Namibia,NAM,2018,48.7,False
+Namibia,NAM,2019,57.6,False
+Namibia,NAM,2020,64.3,False
+Namibia,NAM,2021,69.6,False
+Namibia,NAM,2022,70.1,False
+Namibia,NAM,2023,67.2,False
+Namibia,NAM,2024,68.5,False
+Namibia,NAM,2025,67.5,False
+Namibia,NAM,2026,67.5,True
+Namibia,NAM,2027,67.8,True
+Namibia,NAM,2028,68.5,True
+Namibia,NAM,2029,69.2,True
+Namibia,NAM,2030,70.2,True
+Namibia,NAM,2031,71.2,True
+Niger,NER,1980,,False
+Niger,NER,1981,,False
+Niger,NER,1982,,False
+Niger,NER,1983,,False
+Niger,NER,1984,,False
+Niger,NER,1985,,False
+Niger,NER,1986,,False
+Niger,NER,1987,,False
+Niger,NER,1988,,False
+Niger,NER,1989,,False
+Niger,NER,1990,,False
+Niger,NER,1991,,False
+Niger,NER,1992,,False
+Niger,NER,1993,,False
+Niger,NER,1994,,False
+Niger,NER,1995,69.4,False
+Niger,NER,1996,63.5,False
+Niger,NER,1997,69.1,False
+Niger,NER,1998,61.3,False
+Niger,NER,1999,63.3,False
+Niger,NER,2000,82.1,False
+Niger,NER,2001,74.0,False
+Niger,NER,2002,69.0,False
+Niger,NER,2003,60.6,False
+Niger,NER,2004,55.0,False
+Niger,NER,2005,49.5,False
+Niger,NER,2006,18.3,False
+Niger,NER,2007,17.8,False
+Niger,NER,2008,14.2,False
+Niger,NER,2009,15.9,False
+Niger,NER,2010,15.1,False
+Niger,NER,2011,14.7,False
+Niger,NER,2012,18.1,False
+Niger,NER,2013,19.6,False
+Niger,NER,2014,22.1,False
+Niger,NER,2015,29.9,False
+Niger,NER,2016,32.8,False
+Niger,NER,2017,36.5,False
+Niger,NER,2018,37.0,False
+Niger,NER,2019,39.8,False
+Niger,NER,2020,45.0,False
+Niger,NER,2021,51.3,False
+Niger,NER,2022,50.7,False
+Niger,NER,2023,51.4,False
+Niger,NER,2024,48.1,False
+Niger,NER,2025,45.5,False
+Niger,NER,2026,46.3,True
+Niger,NER,2027,45.4,True
+Niger,NER,2028,44.8,True
+Niger,NER,2029,44.2,True
+Niger,NER,2030,43.8,True
+Niger,NER,2031,43.4,True
+Nigeria,NGA,1980,,False
+Nigeria,NGA,1981,,False
+Nigeria,NGA,1982,,False
+Nigeria,NGA,1983,,False
+Nigeria,NGA,1984,,False
+Nigeria,NGA,1985,,False
+Nigeria,NGA,1986,,False
+Nigeria,NGA,1987,,False
+Nigeria,NGA,1988,,False
+Nigeria,NGA,1989,,False
+Nigeria,NGA,1990,50.9,False
+Nigeria,NGA,1991,53.2,False
+Nigeria,NGA,1992,49.8,False
+Nigeria,NGA,1993,50.4,False
+Nigeria,NGA,1994,39.7,False
+Nigeria,NGA,1995,24.2,False
+Nigeria,NGA,1996,17.9,False
+Nigeria,NGA,1997,17.1,False
+Nigeria,NGA,1998,15.8,False
+Nigeria,NGA,1999,46.1,False
+Nigeria,NGA,2000,40.9,False
+Nigeria,NGA,2001,37.7,False
+Nigeria,NGA,2002,30.7,False
+Nigeria,NGA,2003,29.9,False
+Nigeria,NGA,2004,25.2,False
+Nigeria,NGA,2005,13.4,False
+Nigeria,NGA,2006,6.7,False
+Nigeria,NGA,2007,5.8,False
+Nigeria,NGA,2008,5.2,False
+Nigeria,NGA,2009,6.1,False
+Nigeria,NGA,2010,6.7,False
+Nigeria,NGA,2011,12.4,False
+Nigeria,NGA,2012,12.5,False
+Nigeria,NGA,2013,13.0,False
+Nigeria,NGA,2014,15.8,False
+Nigeria,NGA,2015,14.9,False
+Nigeria,NGA,2016,17.4,False
+Nigeria,NGA,2017,18.0,False
+Nigeria,NGA,2018,20.4,False
+Nigeria,NGA,2019,21.4,False
+Nigeria,NGA,2020,25.7,False
+Nigeria,NGA,2021,26.6,False
+Nigeria,NGA,2022,29.8,False
+Nigeria,NGA,2023,36.3,False
+Nigeria,NGA,2024,39.3,False
+Nigeria,NGA,2025,36.1,False
+Nigeria,NGA,2026,34.6,True
+Nigeria,NGA,2027,32.8,True
+Nigeria,NGA,2028,32.9,True
+Nigeria,NGA,2029,32.5,True
+Nigeria,NGA,2030,32.2,True
+Nigeria,NGA,2031,31.9,True
+Rwanda,RWA,1980,,False
+Rwanda,RWA,1981,,False
+Rwanda,RWA,1982,,False
+Rwanda,RWA,1983,,False
+Rwanda,RWA,1984,,False
+Rwanda,RWA,1985,,False
+Rwanda,RWA,1986,,False
+Rwanda,RWA,1987,,False
+Rwanda,RWA,1988,,False
+Rwanda,RWA,1989,,False
+Rwanda,RWA,1990,,False
+Rwanda,RWA,1991,,False
+Rwanda,RWA,1992,,False
+Rwanda,RWA,1993,,False
+Rwanda,RWA,1994,,False
+Rwanda,RWA,1995,100.8,False
+Rwanda,RWA,1996,83.4,False
+Rwanda,RWA,1997,72.2,False
+Rwanda,RWA,1998,70.1,False
+Rwanda,RWA,1999,78.4,False
+Rwanda,RWA,2000,86.0,False
+Rwanda,RWA,2001,84.0,False
+Rwanda,RWA,2002,92.0,False
+Rwanda,RWA,2003,79.5,False
+Rwanda,RWA,2004,80.9,False
+Rwanda,RWA,2005,58.9,False
+Rwanda,RWA,2006,22.8,False
+Rwanda,RWA,2007,22.4,False
+Rwanda,RWA,2008,18.5,False
+Rwanda,RWA,2009,18.7,False
+Rwanda,RWA,2010,19.0,False
+Rwanda,RWA,2011,18.9,False
+Rwanda,RWA,2012,19.3,False
+Rwanda,RWA,2013,27.0,False
+Rwanda,RWA,2014,29.5,False
+Rwanda,RWA,2015,33.5,False
+Rwanda,RWA,2016,41.5,False
+Rwanda,RWA,2017,46.1,False
+Rwanda,RWA,2018,49.2,False
+Rwanda,RWA,2019,52.8,False
+Rwanda,RWA,2020,66.7,False
+Rwanda,RWA,2021,66.2,False
+Rwanda,RWA,2022,59.0,False
+Rwanda,RWA,2023,61.6,False
+Rwanda,RWA,2024,63.4,False
+Rwanda,RWA,2025,64.7,False
+Rwanda,RWA,2026,63.4,False
+Rwanda,RWA,2027,63.4,True
+Rwanda,RWA,2028,63.3,True
+Rwanda,RWA,2029,62.0,True
+Rwanda,RWA,2030,61.0,True
+Rwanda,RWA,2031,59.9,True
+Senegal,SEN,1980,,False
+Senegal,SEN,1981,,False
+Senegal,SEN,1982,,False
+Senegal,SEN,1983,,False
+Senegal,SEN,1984,,False
+Senegal,SEN,1985,,False
+Senegal,SEN,1986,,False
+Senegal,SEN,1987,,False
+Senegal,SEN,1988,,False
+Senegal,SEN,1989,,False
+Senegal,SEN,1990,,False
+Senegal,SEN,1991,,False
+Senegal,SEN,1992,,False
+Senegal,SEN,1993,,False
+Senegal,SEN,1994,,False
+Senegal,SEN,1995,,False
+Senegal,SEN,1996,0.1,False
+Senegal,SEN,1997,67.8,False
+Senegal,SEN,1998,18.8,False
+Senegal,SEN,1999,15.0,False
+Senegal,SEN,2000,57.5,False
+Senegal,SEN,2001,53.2,False
+Senegal,SEN,2002,52.0,False
+Senegal,SEN,2003,42.9,False
+Senegal,SEN,2004,38.0,False
+Senegal,SEN,2005,36.1,False
+Senegal,SEN,2006,17.5,False
+Senegal,SEN,2007,19.0,False
+Senegal,SEN,2008,19.1,False
+Senegal,SEN,2009,29.9,False
+Senegal,SEN,2010,34.6,False
+Senegal,SEN,2011,32.9,False
+Senegal,SEN,2012,34.5,False
+Senegal,SEN,2013,36.9,False
+Senegal,SEN,2014,42.4,False
+Senegal,SEN,2015,44.5,False
+Senegal,SEN,2016,47.5,False
+Senegal,SEN,2017,61.1,False
+Senegal,SEN,2018,61.5,False
+Senegal,SEN,2019,79.5,False
+Senegal,SEN,2020,90.5,False
+Senegal,SEN,2021,98.9,False
+Senegal,SEN,2022,106.9,False
+Senegal,SEN,2023,120.6,False
+Senegal,SEN,2024,136.1,False
+Senegal,SEN,2025,127.7,False
+Senegal,SEN,2026,,True
+Senegal,SEN,2027,,True
+Senegal,SEN,2028,,True
+Senegal,SEN,2029,,True
+Senegal,SEN,2030,,True
+Senegal,SEN,2031,,True
+Seychelles,SYC,1980,,False
+Seychelles,SYC,1981,,False
+Seychelles,SYC,1982,,False
+Seychelles,SYC,1983,,False
+Seychelles,SYC,1984,,False
+Seychelles,SYC,1985,,False
+Seychelles,SYC,1986,,False
+Seychelles,SYC,1987,,False
+Seychelles,SYC,1988,,False
+Seychelles,SYC,1989,,False
+Seychelles,SYC,1990,80.4,False
+Seychelles,SYC,1991,89.2,False
+Seychelles,SYC,1992,79.9,False
+Seychelles,SYC,1993,82.2,False
+Seychelles,SYC,1994,123.5,False
+Seychelles,SYC,1995,133.5,False
+Seychelles,SYC,1996,146.7,False
+Seychelles,SYC,1997,143.0,False
+Seychelles,SYC,1998,161.2,False
+Seychelles,SYC,1999,159.8,False
+Seychelles,SYC,2000,177.8,False
+Seychelles,SYC,2001,199.8,False
+Seychelles,SYC,2002,195.9,False
+Seychelles,SYC,2003,177.0,False
+Seychelles,SYC,2004,163.2,False
+Seychelles,SYC,2005,144.1,False
+Seychelles,SYC,2006,135.1,False
+Seychelles,SYC,2007,144.0,False
+Seychelles,SYC,2008,192.1,False
+Seychelles,SYC,2009,106.1,False
+Seychelles,SYC,2010,82.2,False
+Seychelles,SYC,2011,82.5,False
+Seychelles,SYC,2012,80.1,False
+Seychelles,SYC,2013,68.2,False
+Seychelles,SYC,2014,70.4,False
+Seychelles,SYC,2015,74.8,False
+Seychelles,SYC,2016,64.3,False
+Seychelles,SYC,2017,56.7,False
+Seychelles,SYC,2018,51.3,False
+Seychelles,SYC,2019,48.9,False
+Seychelles,SYC,2020,78.6,False
+Seychelles,SYC,2021,71.0,False
+Seychelles,SYC,2022,60.6,False
+Seychelles,SYC,2023,55.1,False
+Seychelles,SYC,2024,56.3,False
+Seychelles,SYC,2025,51.2,False
+Seychelles,SYC,2026,52.7,True
+Seychelles,SYC,2027,52.0,True
+Seychelles,SYC,2028,51.0,True
+Seychelles,SYC,2029,50.0,True
+Seychelles,SYC,2030,48.8,True
+Seychelles,SYC,2031,47.7,True
+Sierra Leone,SLE,1980,,False
+Sierra Leone,SLE,1981,,False
+Sierra Leone,SLE,1982,,False
+Sierra Leone,SLE,1983,,False
+Sierra Leone,SLE,1984,,False
+Sierra Leone,SLE,1985,,False
+Sierra Leone,SLE,1986,,False
+Sierra Leone,SLE,1987,,False
+Sierra Leone,SLE,1988,,False
+Sierra Leone,SLE,1989,,False
+Sierra Leone,SLE,1990,,False
+Sierra Leone,SLE,1991,,False
+Sierra Leone,SLE,1992,,False
+Sierra Leone,SLE,1993,,False
+Sierra Leone,SLE,1994,,False
+Sierra Leone,SLE,1995,,False
+Sierra Leone,SLE,1996,,False
+Sierra Leone,SLE,1997,,False
+Sierra Leone,SLE,1998,,False
+Sierra Leone,SLE,1999,,False
+Sierra Leone,SLE,2000,,False
+Sierra Leone,SLE,2001,113.5,False
+Sierra Leone,SLE,2002,99.8,False
+Sierra Leone,SLE,2003,99.8,False
+Sierra Leone,SLE,2004,93.2,False
+Sierra Leone,SLE,2005,78.9,False
+Sierra Leone,SLE,2006,61.9,False
+Sierra Leone,SLE,2007,26.4,False
+Sierra Leone,SLE,2008,46.1,False
+Sierra Leone,SLE,2009,31.1,False
+Sierra Leone,SLE,2010,28.9,False
+Sierra Leone,SLE,2011,25.8,False
+Sierra Leone,SLE,2012,24.1,False
+Sierra Leone,SLE,2013,22.3,False
+Sierra Leone,SLE,2014,26.8,False
+Sierra Leone,SLE,2015,28.4,False
+Sierra Leone,SLE,2016,34.7,False
+Sierra Leone,SLE,2017,44.2,False
+Sierra Leone,SLE,2018,44.2,False
+Sierra Leone,SLE,2019,45.3,False
+Sierra Leone,SLE,2020,46.4,False
+Sierra Leone,SLE,2021,47.1,False
+Sierra Leone,SLE,2022,54.0,False
+Sierra Leone,SLE,2023,49.4,False
+Sierra Leone,SLE,2024,47.0,False
+Sierra Leone,SLE,2025,51.4,False
+Sierra Leone,SLE,2026,50.1,True
+Sierra Leone,SLE,2027,45.4,True
+Sierra Leone,SLE,2028,41.7,True
+Sierra Leone,SLE,2029,38.8,True
+Sierra Leone,SLE,2030,35.9,True
+Sierra Leone,SLE,2031,33.8,True
+Somalia,SOM,1980,,False
+Somalia,SOM,1981,,False
+Somalia,SOM,1982,,False
+Somalia,SOM,1983,,False
+Somalia,SOM,1984,,False
+Somalia,SOM,1985,,False
+Somalia,SOM,1986,,False
+Somalia,SOM,1987,,False
+Somalia,SOM,1988,,False
+Somalia,SOM,1989,,False
+Somalia,SOM,1990,,False
+Somalia,SOM,1991,,False
+Somalia,SOM,1992,,False
+Somalia,SOM,1993,,False
+Somalia,SOM,1994,,False
+Somalia,SOM,1995,,False
+Somalia,SOM,1996,,False
+Somalia,SOM,1997,,False
+Somalia,SOM,1998,,False
+Somalia,SOM,1999,,False
+Somalia,SOM,2000,,False
+Somalia,SOM,2001,,False
+Somalia,SOM,2002,,False
+Somalia,SOM,2003,,False
+Somalia,SOM,2004,,False
+Somalia,SOM,2005,,False
+Somalia,SOM,2006,,False
+Somalia,SOM,2007,,False
+Somalia,SOM,2008,,False
+Somalia,SOM,2009,,False
+Somalia,SOM,2010,,False
+Somalia,SOM,2011,,False
+Somalia,SOM,2012,,False
+Somalia,SOM,2013,,False
+Somalia,SOM,2014,,False
+Somalia,SOM,2015,,False
+Somalia,SOM,2016,,False
+Somalia,SOM,2017,,False
+Somalia,SOM,2018,,False
+Somalia,SOM,2019,,False
+Somalia,SOM,2020,,False
+Somalia,SOM,2021,,False
+Somalia,SOM,2022,,False
+Somalia,SOM,2023,,False
+Somalia,SOM,2024,,False
+Somalia,SOM,2025,,False
+Somalia,SOM,2026,,True
+Somalia,SOM,2027,,True
+Somalia,SOM,2028,,True
+Somalia,SOM,2029,,True
+Somalia,SOM,2030,,True
+Somalia,SOM,2031,,True
+South Africa,ZAF,1980,,False
+South Africa,ZAF,1981,,False
+South Africa,ZAF,1982,,False
+South Africa,ZAF,1983,,False
+South Africa,ZAF,1984,,False
+South Africa,ZAF,1985,,False
+South Africa,ZAF,1986,,False
+South Africa,ZAF,1987,,False
+South Africa,ZAF,1988,,False
+South Africa,ZAF,1989,,False
+South Africa,ZAF,1990,,False
+South Africa,ZAF,1991,,False
+South Africa,ZAF,1992,,False
+South Africa,ZAF,1993,,False
+South Africa,ZAF,1994,,False
+South Africa,ZAF,1995,,False
+South Africa,ZAF,1996,,False
+South Africa,ZAF,1997,,False
+South Africa,ZAF,1998,,False
+South Africa,ZAF,1999,,False
+South Africa,ZAF,2000,37.9,False
+South Africa,ZAF,2001,38.0,False
+South Africa,ZAF,2002,31.8,False
+South Africa,ZAF,2003,31.5,False
+South Africa,ZAF,2004,30.7,False
+South Africa,ZAF,2005,29.6,False
+South Africa,ZAF,2006,28.0,False
+South Africa,ZAF,2007,24.3,False
+South Africa,ZAF,2008,24.0,False
+South Africa,ZAF,2009,27.0,False
+South Africa,ZAF,2010,31.2,False
+South Africa,ZAF,2011,34.7,False
+South Africa,ZAF,2012,37.4,False
+South Africa,ZAF,2013,40.4,False
+South Africa,ZAF,2014,43.3,False
+South Africa,ZAF,2015,45.2,False
+South Africa,ZAF,2016,47.1,False
+South Africa,ZAF,2017,48.6,False
+South Africa,ZAF,2018,51.5,False
+South Africa,ZAF,2019,56.1,False
+South Africa,ZAF,2020,68.9,False
+South Africa,ZAF,2021,68.8,False
+South Africa,ZAF,2022,70.7,False
+South Africa,ZAF,2023,73.2,False
+South Africa,ZAF,2024,76.0,False
+South Africa,ZAF,2025,78.4,False
+South Africa,ZAF,2026,78.0,True
+South Africa,ZAF,2027,78.1,True
+South Africa,ZAF,2028,78.8,True
+South Africa,ZAF,2029,79.5,True
+South Africa,ZAF,2030,79.7,True
+South Africa,ZAF,2031,79.8,True
+"South Sudan, Republic of",SSD,1980,,False
+"South Sudan, Republic of",SSD,1981,,False
+"South Sudan, Republic of",SSD,1982,,False
+"South Sudan, Republic of",SSD,1983,,False
+"South Sudan, Republic of",SSD,1984,,False
+"South Sudan, Republic of",SSD,1985,,False
+"South Sudan, Republic of",SSD,1986,,False
+"South Sudan, Republic of",SSD,1987,,False
+"South Sudan, Republic of",SSD,1988,,False
+"South Sudan, Republic of",SSD,1989,,False
+"South Sudan, Republic of",SSD,1990,,False
+"South Sudan, Republic of",SSD,1991,,False
+"South Sudan, Republic of",SSD,1992,,False
+"South Sudan, Republic of",SSD,1993,,False
+"South Sudan, Republic of",SSD,1994,,False
+"South Sudan, Republic of",SSD,1995,,False
+"South Sudan, Republic of",SSD,1996,,False
+"South Sudan, Republic of",SSD,1997,,False
+"South Sudan, Republic of",SSD,1998,,False
+"South Sudan, Republic of",SSD,1999,,False
+"South Sudan, Republic of",SSD,2000,,False
+"South Sudan, Republic of",SSD,2001,,False
+"South Sudan, Republic of",SSD,2002,,False
+"South Sudan, Republic of",SSD,2003,,False
+"South Sudan, Republic of",SSD,2004,,False
+"South Sudan, Republic of",SSD,2005,,False
+"South Sudan, Republic of",SSD,2006,,False
+"South Sudan, Republic of",SSD,2007,,False
+"South Sudan, Republic of",SSD,2008,,False
+"South Sudan, Republic of",SSD,2009,,False
+"South Sudan, Republic of",SSD,2010,,False
+"South Sudan, Republic of",SSD,2011,0.0,False
+"South Sudan, Republic of",SSD,2012,8.9,False
+"South Sudan, Republic of",SSD,2013,17.6,False
+"South Sudan, Republic of",SSD,2014,39.6,False
+"South Sudan, Republic of",SSD,2015,58.2,False
+"South Sudan, Republic of",SSD,2016,128.9,False
+"South Sudan, Republic of",SSD,2017,77.5,False
+"South Sudan, Republic of",SSD,2018,84.3,False
+"South Sudan, Republic of",SSD,2019,43.4,False
+"South Sudan, Republic of",SSD,2020,48.3,False
+"South Sudan, Republic of",SSD,2021,56.4,False
+"South Sudan, Republic of",SSD,2022,42.1,False
+"South Sudan, Republic of",SSD,2023,60.7,False
+"South Sudan, Republic of",SSD,2024,53.7,False
+"South Sudan, Republic of",SSD,2025,64.2,False
+"South Sudan, Republic of",SSD,2026,43.2,True
+"South Sudan, Republic of",SSD,2027,43.0,True
+"South Sudan, Republic of",SSD,2028,44.4,True
+"South Sudan, Republic of",SSD,2029,45.4,True
+"South Sudan, Republic of",SSD,2030,45.7,True
+"South Sudan, Republic of",SSD,2031,46.3,True
+Sudan,SDN,1980,,False
+Sudan,SDN,1981,,False
+Sudan,SDN,1982,,False
+Sudan,SDN,1983,,False
+Sudan,SDN,1984,,False
+Sudan,SDN,1985,,False
+Sudan,SDN,1986,,False
+Sudan,SDN,1987,,False
+Sudan,SDN,1988,,False
+Sudan,SDN,1989,,False
+Sudan,SDN,1990,,False
+Sudan,SDN,1991,,False
+Sudan,SDN,1992,495.2,False
+Sudan,SDN,1993,285.9,False
+Sudan,SDN,1994,386.5,False
+Sudan,SDN,1995,239.0,False
+Sudan,SDN,1996,220.9,False
+Sudan,SDN,1997,167.7,False
+Sudan,SDN,1998,179.7,False
+Sudan,SDN,1999,160.5,False
+Sudan,SDN,2000,143.2,False
+Sudan,SDN,2001,125.6,False
+Sudan,SDN,2002,121.7,False
+Sudan,SDN,2003,117.4,False
+Sudan,SDN,2004,97.8,False
+Sudan,SDN,2005,75.5,False
+Sudan,SDN,2006,63.7,False
+Sudan,SDN,2007,53.7,False
+Sudan,SDN,2008,55.8,False
+Sudan,SDN,2009,71.0,False
+Sudan,SDN,2010,74.6,False
+Sudan,SDN,2011,78.1,False
+Sudan,SDN,2012,117.7,False
+Sudan,SDN,2013,105.8,False
+Sudan,SDN,2014,84.4,False
+Sudan,SDN,2015,93.2,False
+Sudan,SDN,2016,109.9,False
+Sudan,SDN,2017,149.5,False
+Sudan,SDN,2018,209.8,False
+Sudan,SDN,2019,216.5,False
+Sudan,SDN,2020,278.8,False
+Sudan,SDN,2021,191.3,False
+Sudan,SDN,2022,189.0,True
+Sudan,SDN,2023,286.9,True
+Sudan,SDN,2024,282.3,True
+Sudan,SDN,2025,204.4,True
+Sudan,SDN,2026,334.4,True
+Sudan,SDN,2027,274.1,True
+Sudan,SDN,2028,235.5,True
+Sudan,SDN,2029,225.2,True
+Sudan,SDN,2030,212.0,True
+Sudan,SDN,2031,192.2,True
+São Tomé and Príncipe,STP,1980,,False
+São Tomé and Príncipe,STP,1981,,False
+São Tomé and Príncipe,STP,1982,,False
+São Tomé and Príncipe,STP,1983,,False
+São Tomé and Príncipe,STP,1984,,False
+São Tomé and Príncipe,STP,1985,,False
+São Tomé and Príncipe,STP,1986,,False
+São Tomé and Príncipe,STP,1987,,False
+São Tomé and Príncipe,STP,1988,,False
+São Tomé and Príncipe,STP,1989,,False
+São Tomé and Príncipe,STP,1990,,False
+São Tomé and Príncipe,STP,1991,,False
+São Tomé and Príncipe,STP,1992,,False
+São Tomé and Príncipe,STP,1993,,False
+São Tomé and Príncipe,STP,1994,,False
+São Tomé and Príncipe,STP,1995,,False
+São Tomé and Príncipe,STP,1996,,False
+São Tomé and Príncipe,STP,1997,,False
+São Tomé and Príncipe,STP,1998,,False
+São Tomé and Príncipe,STP,1999,,False
+São Tomé and Príncipe,STP,2000,,False
+São Tomé and Príncipe,STP,2001,418.4,False
+São Tomé and Príncipe,STP,2002,366.5,False
+São Tomé and Príncipe,STP,2003,329.4,False
+São Tomé and Príncipe,STP,2004,354.5,False
+São Tomé and Príncipe,STP,2005,334.2,False
+São Tomé and Príncipe,STP,2006,283.2,False
+São Tomé and Príncipe,STP,2007,110.1,False
+São Tomé and Príncipe,STP,2008,60.7,False
+São Tomé and Príncipe,STP,2009,70.3,False
+São Tomé and Príncipe,STP,2010,83.0,False
+São Tomé and Príncipe,STP,2011,86.0,False
+São Tomé and Príncipe,STP,2012,59.6,False
+São Tomé and Príncipe,STP,2013,76.8,False
+São Tomé and Príncipe,STP,2014,92.5,False
+São Tomé and Príncipe,STP,2015,101.1,False
+São Tomé and Príncipe,STP,2016,104.6,False
+São Tomé and Príncipe,STP,2017,92.3,False
+São Tomé and Príncipe,STP,2018,95.9,False
+São Tomé and Príncipe,STP,2019,98.6,False
+São Tomé and Príncipe,STP,2020,91.0,False
+São Tomé and Príncipe,STP,2021,85.1,False
+São Tomé and Príncipe,STP,2022,86.8,False
+São Tomé and Príncipe,STP,2023,73.2,False
+São Tomé and Príncipe,STP,2024,69.0,False
+São Tomé and Príncipe,STP,2025,59.1,False
+São Tomé and Príncipe,STP,2026,55.9,True
+São Tomé and Príncipe,STP,2027,54.2,True
+São Tomé and Príncipe,STP,2028,52.0,True
+São Tomé and Príncipe,STP,2029,49.6,True
+São Tomé and Príncipe,STP,2030,46.5,True
+São Tomé and Príncipe,STP,2031,43.6,True
+Tanzania,TZA,1980,,False
+Tanzania,TZA,1981,,False
+Tanzania,TZA,1982,,False
+Tanzania,TZA,1983,,False
+Tanzania,TZA,1984,,False
+Tanzania,TZA,1985,,False
+Tanzania,TZA,1986,,False
+Tanzania,TZA,1987,,False
+Tanzania,TZA,1988,,False
+Tanzania,TZA,1989,,False
+Tanzania,TZA,1990,,False
+Tanzania,TZA,1991,,False
+Tanzania,TZA,1992,,False
+Tanzania,TZA,1993,,False
+Tanzania,TZA,1994,,False
+Tanzania,TZA,1995,,False
+Tanzania,TZA,1996,,False
+Tanzania,TZA,1997,,False
+Tanzania,TZA,1998,,False
+Tanzania,TZA,1999,,False
+Tanzania,TZA,2000,,False
+Tanzania,TZA,2001,50.8,False
+Tanzania,TZA,2002,47.4,False
+Tanzania,TZA,2003,44.4,False
+Tanzania,TZA,2004,44.5,False
+Tanzania,TZA,2005,46.1,False
+Tanzania,TZA,2006,34.5,False
+Tanzania,TZA,2007,23.8,False
+Tanzania,TZA,2008,21.6,False
+Tanzania,TZA,2009,23.9,False
+Tanzania,TZA,2010,27.6,False
+Tanzania,TZA,2011,28.4,False
+Tanzania,TZA,2012,30.0,False
+Tanzania,TZA,2013,32.7,False
+Tanzania,TZA,2014,36.4,False
+Tanzania,TZA,2015,39.5,False
+Tanzania,TZA,2016,39.8,False
+Tanzania,TZA,2017,40.1,False
+Tanzania,TZA,2018,42.0,False
+Tanzania,TZA,2019,40.4,False
+Tanzania,TZA,2020,41.3,False
+Tanzania,TZA,2021,43.4,False
+Tanzania,TZA,2022,44.9,False
+Tanzania,TZA,2023,47.8,False
+Tanzania,TZA,2024,50.0,True
+Tanzania,TZA,2025,49.8,True
+Tanzania,TZA,2026,48.1,True
+Tanzania,TZA,2027,46.6,True
+Tanzania,TZA,2028,45.2,True
+Tanzania,TZA,2029,43.9,True
+Tanzania,TZA,2030,42.9,True
+Tanzania,TZA,2031,41.4,True
+Togo,TGO,1980,,False
+Togo,TGO,1981,,False
+Togo,TGO,1982,,False
+Togo,TGO,1983,,False
+Togo,TGO,1984,,False
+Togo,TGO,1985,,False
+Togo,TGO,1986,,False
+Togo,TGO,1987,,False
+Togo,TGO,1988,,False
+Togo,TGO,1989,,False
+Togo,TGO,1990,,False
+Togo,TGO,1991,,False
+Togo,TGO,1992,,False
+Togo,TGO,1993,,False
+Togo,TGO,1994,,False
+Togo,TGO,1995,,False
+Togo,TGO,1996,,False
+Togo,TGO,1997,,False
+Togo,TGO,1998,,False
+Togo,TGO,1999,,False
+Togo,TGO,2000,,False
+Togo,TGO,2001,,False
+Togo,TGO,2002,,False
+Togo,TGO,2003,,False
+Togo,TGO,2004,,False
+Togo,TGO,2005,63.1,False
+Togo,TGO,2006,67.7,False
+Togo,TGO,2007,70.5,False
+Togo,TGO,2008,67.3,False
+Togo,TGO,2009,57.6,False
+Togo,TGO,2010,33.5,False
+Togo,TGO,2011,37.0,False
+Togo,TGO,2012,34.3,False
+Togo,TGO,2013,41.6,False
+Togo,TGO,2014,45.3,False
+Togo,TGO,2015,52.7,False
+Togo,TGO,2016,59.9,False
+Togo,TGO,2017,57.1,False
+Togo,TGO,2018,58.0,False
+Togo,TGO,2019,54.9,False
+Togo,TGO,2020,61.4,False
+Togo,TGO,2021,63.3,False
+Togo,TGO,2022,63.0,False
+Togo,TGO,2023,64.0,False
+Togo,TGO,2024,66.2,False
+Togo,TGO,2025,64.9,False
+Togo,TGO,2026,64.7,True
+Togo,TGO,2027,63.0,True
+Togo,TGO,2028,61.5,True
+Togo,TGO,2029,60.2,True
+Togo,TGO,2030,58.9,True
+Togo,TGO,2031,57.6,True
+Tunisia,TUN,1980,,False
+Tunisia,TUN,1981,,False
+Tunisia,TUN,1982,,False
+Tunisia,TUN,1983,,False
+Tunisia,TUN,1984,,False
+Tunisia,TUN,1985,,False
+Tunisia,TUN,1986,,False
+Tunisia,TUN,1987,,False
+Tunisia,TUN,1988,,False
+Tunisia,TUN,1989,,False
+Tunisia,TUN,1990,,False
+Tunisia,TUN,1991,63.3,False
+Tunisia,TUN,1992,62.1,False
+Tunisia,TUN,1993,63.8,False
+Tunisia,TUN,1994,63.9,False
+Tunisia,TUN,1995,65.6,False
+Tunisia,TUN,1996,66.8,False
+Tunisia,TUN,1997,66.6,False
+Tunisia,TUN,1998,58.2,False
+Tunisia,TUN,1999,61.9,False
+Tunisia,TUN,2000,62.9,False
+Tunisia,TUN,2001,52.2,False
+Tunisia,TUN,2002,51.6,False
+Tunisia,TUN,2003,52.6,False
+Tunisia,TUN,2004,51.6,False
+Tunisia,TUN,2005,50.0,False
+Tunisia,TUN,2006,45.7,False
+Tunisia,TUN,2007,42.7,False
+Tunisia,TUN,2008,41.4,False
+Tunisia,TUN,2009,40.3,False
+Tunisia,TUN,2010,38.8,False
+Tunisia,TUN,2011,43.3,False
+Tunisia,TUN,2012,49.0,False
+Tunisia,TUN,2013,45.6,False
+Tunisia,TUN,2014,50.7,False
+Tunisia,TUN,2015,52.4,False
+Tunisia,TUN,2016,58.9,False
+Tunisia,TUN,2017,67.1,False
+Tunisia,TUN,2018,72.9,False
+Tunisia,TUN,2019,67.3,False
+Tunisia,TUN,2020,77.7,False
+Tunisia,TUN,2021,79.7,False
+Tunisia,TUN,2022,83.0,False
+Tunisia,TUN,2023,84.0,False
+Tunisia,TUN,2024,85.6,False
+Tunisia,TUN,2025,81.7,False
+Tunisia,TUN,2026,86.1,True
+Tunisia,TUN,2027,89.8,True
+Tunisia,TUN,2028,90.9,True
+Tunisia,TUN,2029,90.8,True
+Tunisia,TUN,2030,89.7,True
+Tunisia,TUN,2031,88.7,True
+Uganda,UGA,1980,,False
+Uganda,UGA,1981,,False
+Uganda,UGA,1982,,False
+Uganda,UGA,1983,,False
+Uganda,UGA,1984,,False
+Uganda,UGA,1985,,False
+Uganda,UGA,1986,,False
+Uganda,UGA,1987,,False
+Uganda,UGA,1988,,False
+Uganda,UGA,1989,,False
+Uganda,UGA,1990,,False
+Uganda,UGA,1991,,False
+Uganda,UGA,1992,,False
+Uganda,UGA,1993,,False
+Uganda,UGA,1994,,False
+Uganda,UGA,1995,,False
+Uganda,UGA,1996,,False
+Uganda,UGA,1997,44.2,False
+Uganda,UGA,1998,45.1,False
+Uganda,UGA,1999,47.7,False
+Uganda,UGA,2000,48.5,False
+Uganda,UGA,2001,51.4,False
+Uganda,UGA,2002,54.7,False
+Uganda,UGA,2003,55.1,False
+Uganda,UGA,2004,49.0,False
+Uganda,UGA,2005,42.6,False
+Uganda,UGA,2006,27.8,False
+Uganda,UGA,2007,17.0,False
+Uganda,UGA,2008,15.7,False
+Uganda,UGA,2009,14.8,False
+Uganda,UGA,2010,18.4,False
+Uganda,UGA,2011,18.0,False
+Uganda,UGA,2012,19.5,False
+Uganda,UGA,2013,22.1,False
+Uganda,UGA,2014,24.8,False
+Uganda,UGA,2015,28.0,False
+Uganda,UGA,2016,31.3,False
+Uganda,UGA,2017,33.6,False
+Uganda,UGA,2018,35.0,False
+Uganda,UGA,2019,38.0,False
+Uganda,UGA,2020,46.8,False
+Uganda,UGA,2021,50.3,False
+Uganda,UGA,2022,49.9,False
+Uganda,UGA,2023,50.4,False
+Uganda,UGA,2024,51.8,False
+Uganda,UGA,2025,53.2,False
+Uganda,UGA,2026,55.1,True
+Uganda,UGA,2027,54.9,True
+Uganda,UGA,2028,55.1,True
+Uganda,UGA,2029,56.0,True
+Uganda,UGA,2030,56.8,True
+Uganda,UGA,2031,57.2,True
+Zambia,ZMB,1980,,False
+Zambia,ZMB,1981,,False
+Zambia,ZMB,1982,,False
+Zambia,ZMB,1983,,False
+Zambia,ZMB,1984,,False
+Zambia,ZMB,1985,,False
+Zambia,ZMB,1986,,False
+Zambia,ZMB,1987,,False
+Zambia,ZMB,1988,,False
+Zambia,ZMB,1989,,False
+Zambia,ZMB,1990,,False
+Zambia,ZMB,1991,,False
+Zambia,ZMB,1992,,False
+Zambia,ZMB,1993,,False
+Zambia,ZMB,1994,,False
+Zambia,ZMB,1995,,False
+Zambia,ZMB,1996,,False
+Zambia,ZMB,1997,,False
+Zambia,ZMB,1998,,False
+Zambia,ZMB,1999,,False
+Zambia,ZMB,2000,261.0,False
+Zambia,ZMB,2001,210.2,False
+Zambia,ZMB,2002,180.2,False
+Zambia,ZMB,2003,159.5,False
+Zambia,ZMB,2004,129.9,False
+Zambia,ZMB,2005,75.7,False
+Zambia,ZMB,2006,25.0,False
+Zambia,ZMB,2007,21.9,False
+Zambia,ZMB,2008,19.2,False
+Zambia,ZMB,2009,20.5,False
+Zambia,ZMB,2010,18.9,False
+Zambia,ZMB,2011,20.8,False
+Zambia,ZMB,2012,24.9,False
+Zambia,ZMB,2013,25.9,False
+Zambia,ZMB,2014,33.9,False
+Zambia,ZMB,2015,61.9,False
+Zambia,ZMB,2016,61.2,False
+Zambia,ZMB,2017,66.6,False
+Zambia,ZMB,2018,81.2,False
+Zambia,ZMB,2019,103.3,False
+Zambia,ZMB,2020,140.0,False
+Zambia,ZMB,2021,111.0,False
+Zambia,ZMB,2022,99.5,False
+Zambia,ZMB,2023,136.8,False
+Zambia,ZMB,2024,125.5,False
+Zambia,ZMB,2025,100.6,False
+Zambia,ZMB,2026,82.1,True
+Zambia,ZMB,2027,77.0,True
+Zambia,ZMB,2028,72.2,True
+Zambia,ZMB,2029,67.2,True
+Zambia,ZMB,2030,61.9,True
+Zambia,ZMB,2031,56.7,True
+Zimbabwe,ZWE,1980,,False
+Zimbabwe,ZWE,1981,,False
+Zimbabwe,ZWE,1982,,False
+Zimbabwe,ZWE,1983,,False
+Zimbabwe,ZWE,1984,,False
+Zimbabwe,ZWE,1985,,False
+Zimbabwe,ZWE,1986,,False
+Zimbabwe,ZWE,1987,,False
+Zimbabwe,ZWE,1988,,False
+Zimbabwe,ZWE,1989,,False
+Zimbabwe,ZWE,1990,,False
+Zimbabwe,ZWE,1991,,False
+Zimbabwe,ZWE,1992,,False
+Zimbabwe,ZWE,1993,,False
+Zimbabwe,ZWE,1994,,False
+Zimbabwe,ZWE,1995,,False
+Zimbabwe,ZWE,1996,,False
+Zimbabwe,ZWE,1997,,False
+Zimbabwe,ZWE,1998,,False
+Zimbabwe,ZWE,1999,,False
+Zimbabwe,ZWE,2000,,False
+Zimbabwe,ZWE,2001,,False
+Zimbabwe,ZWE,2002,,False
+Zimbabwe,ZWE,2003,,False
+Zimbabwe,ZWE,2004,,False
+Zimbabwe,ZWE,2005,22.4,False
+Zimbabwe,ZWE,2006,26.7,False
+Zimbabwe,ZWE,2007,30.2,False
+Zimbabwe,ZWE,2008,41.3,False
+Zimbabwe,ZWE,2009,39.7,False
+Zimbabwe,ZWE,2010,33.2,False
+Zimbabwe,ZWE,2011,30.0,False
+Zimbabwe,ZWE,2012,27.2,False
+Zimbabwe,ZWE,2013,26.4,False
+Zimbabwe,ZWE,2014,29.2,False
+Zimbabwe,ZWE,2015,34.1,False
+Zimbabwe,ZWE,2016,35.1,False
+Zimbabwe,ZWE,2017,49.0,False
+Zimbabwe,ZWE,2018,33.0,False
+Zimbabwe,ZWE,2019,53.9,False
+Zimbabwe,ZWE,2020,56.8,False
+Zimbabwe,ZWE,2021,39.9,False
+Zimbabwe,ZWE,2022,66.8,False
+Zimbabwe,ZWE,2023,76.1,False
+Zimbabwe,ZWE,2024,70.4,False
+Zimbabwe,ZWE,2025,38.0,False
+Zimbabwe,ZWE,2026,33.5,True
+Zimbabwe,ZWE,2027,30.6,True
+Zimbabwe,ZWE,2028,30.2,True
+Zimbabwe,ZWE,2029,28.1,True
+Zimbabwe,ZWE,2030,26.7,True
+Zimbabwe,ZWE,2031,25.7,True
